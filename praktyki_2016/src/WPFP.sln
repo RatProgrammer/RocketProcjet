@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFP.Core", "WPFP.Core\WPFP.Core.csproj", "{741CD1F9-BB5D-4602-ADE4-14503872A01C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFP.SimpleUI", "WPFP.SimpleUI\WPFP.SimpleUI.csproj", "{E00AB15C-9D5A-4A13-8BF9-55EEE28571B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{741CD1F9-BB5D-4602-ADE4-14503872A01C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{741CD1F9-BB5D-4602-ADE4-14503872A01C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{741CD1F9-BB5D-4602-ADE4-14503872A01C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{741CD1F9-BB5D-4602-ADE4-14503872A01C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E00AB15C-9D5A-4A13-8BF9-55EEE28571B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E00AB15C-9D5A-4A13-8BF9-55EEE28571B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E00AB15C-9D5A-4A13-8BF9-55EEE28571B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E00AB15C-9D5A-4A13-8BF9-55EEE28571B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

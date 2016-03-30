@@ -1,0 +1,6 @@
+C:\bin\debug\WPFP.Core.dll.config
+C:\bin\debug\WPFP.Core.dll
+C:\bin\debug\WPFP.Core.pdb
+C:\Users\Aleksanra\Desktop\praktyki_2016\src\WPFP.Core\obj\Debug\WPFP.Core.csprojResolveAssemblyReference.cache
+C:\Users\Aleksanra\Desktop\praktyki_2016\src\WPFP.Core\obj\Debug\WPFP.Core.dll
+C:\Users\Aleksanra\Desktop\praktyki_2016\src\WPFP.Core\obj\Debug\WPFP.Core.pdb

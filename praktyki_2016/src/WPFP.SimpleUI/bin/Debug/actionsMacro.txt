@@ -1,0 +1,21 @@
+hire_people engineer 15
+hire_people scientist 15
+focus_science primary 15
+focus_production primary 15
+focus_production primary 15
+slower_time 10
+perform_work 20
+focus_science primary 15
+focus_science primary 15
+focus_science primary 15
+focus_production primary 15
+focus_science secondary 10
+focus_production secondary 10
+focus_production secondary 10
+focus_production secondary 10
+focus_production secondary 10
+focus_production cargo 10
+slower_time 10
+perform_work 20
+focus_production primary 15
+launch_rocket_to_mars

@@ -1,0 +1,14 @@
+C:\Users\Aleksanra\Desktop\praktyki_2016\src\WPFP.Core\bin\Release\WPFP.Core.dll.config
+C:\Users\Aleksanra\Desktop\praktyki_2016\src\WPFP.Core\bin\Release\WPFP.Core.dll
+C:\Users\Aleksanra\Desktop\praktyki_2016\src\WPFP.Core\bin\Release\WPFP.Core.pdb
+C:\Users\Aleksanra\Desktop\praktyki_2016\src\WPFP.Core\bin\Release\WPFP.CommunicationLayer.dll
+C:\Users\Aleksanra\Desktop\praktyki_2016\src\WPFP.Core\bin\Release\WPFP.Psyche.dll
+C:\Users\Aleksanra\Desktop\praktyki_2016\src\WPFP.Core\bin\Release\WPFP.SImConfiguration.dll
+C:\Users\Aleksanra\Desktop\praktyki_2016\src\WPFP.Core\bin\Release\Autofac.dll
+C:\Users\Aleksanra\Desktop\praktyki_2016\src\WPFP.Core\bin\Release\WPFP.CommunicationLayer.pdb
+C:\Users\Aleksanra\Desktop\praktyki_2016\src\WPFP.Core\bin\Release\WPFP.Psyche.pdb
+C:\Users\Aleksanra\Desktop\praktyki_2016\src\WPFP.Core\bin\Release\WPFP.SImConfiguration.pdb
+C:\Users\Aleksanra\Desktop\praktyki_2016\src\WPFP.Core\bin\Release\Autofac.xml
+C:\Users\Aleksanra\Desktop\praktyki_2016\src\WPFP.Core\obj\Release\WPFP.Core.csprojResolveAssemblyReference.cache
+C:\Users\Aleksanra\Desktop\praktyki_2016\src\WPFP.Core\obj\Release\WPFP.Core.dll
+C:\Users\Aleksanra\Desktop\praktyki_2016\src\WPFP.Core\obj\Release\WPFP.Core.pdb
