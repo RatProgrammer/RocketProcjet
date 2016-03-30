@@ -632,3 +632,6097 @@ NeuroControl
 RocketAssembled
 RocketLaunched
 ------------------
+Month: 1
+LastEvent: 
+Popularity: 7
+Morale: 8
+Budget: 3132,85535300051
+Engineers: 21
+PrimaryProductionPool: 0
+SecondaryProductionPool: 0
+PrimarySciencePool: 0
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 0
+
+Events: 
+------------------
+Month: 2
+LastEvent: 
+Popularity: 8
+Morale: 8
+Budget: 2999,10576796816
+Engineers: 21
+PrimaryProductionPool: 0
+SecondaryProductionPool: 0
+PrimarySciencePool: 0
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 0
+
+Events: 
+------------------
+Month: 3
+LastEvent: 2016-03-30 21:24:51 - ResearchedEngineBooster
+Popularity: 18
+Morale: 18
+Budget: 2867,87360894628
+Engineers: 21
+PrimaryProductionPool: 0
+SecondaryProductionPool: 0
+PrimarySciencePool: 777,6
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 100
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+------------------
+Month: 4
+LastEvent: 2016-03-30 21:24:51 - ConstructedEngine
+Popularity: 28
+Morale: 28
+Budget: 2731,98010586061
+Engineers: 21
+PrimaryProductionPool: 743,4
+SecondaryProductionPool: 0
+PrimarySciencePool: 777,6
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 200
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+------------------
+Month: 5
+LastEvent: 2016-03-30 21:24:51 - ConstructedSecondEngineBooster
+Popularity: 38
+Morale: 33
+Budget: 2599,81986290534
+Engineers: 21
+PrimaryProductionPool: 1549,8
+SecondaryProductionPool: 0
+PrimarySciencePool: 777,6
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 300
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+------------------
+Month: 6
+LastEvent: 2016-03-30 21:24:51 - ConstructedSecondEngineBooster
+Popularity: 43
+Morale: 53
+Budget: 2479,81986290534
+Engineers: 21
+PrimaryProductionPool: 1549,8
+SecondaryProductionPool: 0
+PrimarySciencePool: 777,6
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 300
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+------------------
+Month: 7
+LastEvent: 2016-03-30 21:24:51 - CleanerFuelResearched
+Popularity: 43
+Morale: 53
+Budget: 2311,86186747945
+Engineers: 21
+PrimaryProductionPool: 1742,58
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 997,92
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 400
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+------------------
+Month: 8
+LastEvent: 2016-03-30 21:24:51 - ResearchedLifeSupport
+Popularity: 48
+Morale: 58
+Budget: 2177,95693062616
+Engineers: 21
+PrimaryProductionPool: 1742,58
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 2099,52
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 450
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+------------------
+Month: 9
+LastEvent: 2016-03-30 21:24:51 - ResearchedCockpit
+Popularity: 53
+Morale: 58
+Budget: 2052,48142183641
+Engineers: 21
+PrimaryProductionPool: 1742,58
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 3237,12
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 500
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+------------------
+Month: 10
+LastEvent: 2016-03-30 21:24:51 - ScientificMogul
+Popularity: 73
+Morale: 73
+Budget: 1913,76906576509
+Engineers: 21
+PrimaryProductionPool: 1742,58
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 550
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+------------------
+Month: 11
+LastEvent: 2016-03-30 21:24:51 - ConstructedCockpit
+Popularity: 88
+Morale: 88
+Budget: 1776,0099102608
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 700
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+------------------
+Month: 12
+LastEvent: 2016-03-30 21:24:51 - MoreEfficientTransportationTakesWorldByStorm
+Popularity: 88
+Morale: 88
+Budget: 1643,51328028762
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 940
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+------------------
+Month: 13
+LastEvent: 2016-03-30 21:24:51 - PrototypedASuperCell
+Popularity: 88
+Morale: 88
+Budget: 1504,53991139286
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 982,38
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 1140
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+------------------
+Month: 14
+LastEvent: 2016-03-30 21:24:51 - MakeSurveillanceSystem
+Popularity: 68
+Morale: 63
+Budget: 1378,12275550241
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 1771,98
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 1240
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+------------------
+Month: 15
+LastEvent: 2016-03-30 21:24:51 - ConstructDeepSleepChamber
+Popularity: 68
+Morale: 58
+Budget: 1246,41841502693
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 2456,58
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 1340
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+------------------
+Month: 16
+LastEvent: 2016-03-30 21:24:51 - NeuroControl
+Popularity: 68
+Morale: 53
+Budget: 1115,40180726228
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 3120,18
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 1440
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+------------------
+Month: 17
+LastEvent: 2016-03-30 21:24:51 - NeuroControl
+Popularity: 68
+Morale: 48
+Budget: 984,164908204304
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 3120,18
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 706,86
+GoalType: SmartCity
+Comment: 
+Score: 1440
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+------------------
+Month: 18
+LastEvent: 2016-03-30 21:24:51 - NeuroControl
+Popularity: 73
+Morale: 68
+Budget: 864,164908204304
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 3120,18
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 706,86
+GoalType: SmartCity
+Comment: 
+Score: 1440
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+------------------
+Month: 19
+LastEvent: 2016-03-30 21:24:51 - NeuroControl
+Popularity: 73
+Morale: 68
+Budget: 711,149566304474
+Engineers: 21
+PrimaryProductionPool: 3044,16
+SecondaryProductionPool: 3331,86
+PrimarySciencePool: 4616,64
+SecondarySciencePool: 1364,64
+Cargo: 777,42
+GoalType: SmartCity
+Comment: 
+Score: 1440
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+------------------
+Month: 20
+LastEvent: 2016-03-30 21:24:51 - RocketAssembled
+Popularity: 78
+Morale: 73
+Budget: 580,536147365596
+Engineers: 21
+PrimaryProductionPool: 4102,56
+SecondaryProductionPool: 3331,86
+PrimarySciencePool: 4616,64
+SecondarySciencePool: 1364,64
+Cargo: 777,42
+GoalType: SmartCity
+Comment: 
+Score: 1490
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+RocketAssembled
+------------------
+Month: 1
+LastEvent: 
+Popularity: 7
+Morale: 8
+Budget: 3127,45993965886
+Engineers: 21
+PrimaryProductionPool: 0
+SecondaryProductionPool: 0
+PrimarySciencePool: 0
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 0
+
+Events: 
+------------------
+Month: 2
+LastEvent: 
+Popularity: 8
+Morale: 8
+Budget: 2993,51679203963
+Engineers: 21
+PrimaryProductionPool: 0
+SecondaryProductionPool: 0
+PrimarySciencePool: 0
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 0
+
+Events: 
+------------------
+Month: 3
+LastEvent: 2016-03-30 21:30:55 - ResearchedEngineBooster
+Popularity: 18
+Morale: 18
+Budget: 2861,54187148276
+Engineers: 21
+PrimaryProductionPool: 0
+SecondaryProductionPool: 0
+PrimarySciencePool: 777,6
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 100
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+------------------
+Month: 4
+LastEvent: 2016-03-30 21:30:55 - ConstructedEngine
+Popularity: 28
+Morale: 28
+Budget: 2726,20612486322
+Engineers: 21
+PrimaryProductionPool: 743,4
+SecondaryProductionPool: 0
+PrimarySciencePool: 777,6
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 200
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+------------------
+Month: 5
+LastEvent: 2016-03-30 21:30:55 - ConstructedSecondEngineBooster
+Popularity: 38
+Morale: 33
+Budget: 2588,10305524296
+Engineers: 21
+PrimaryProductionPool: 1549,8
+SecondaryProductionPool: 0
+PrimarySciencePool: 777,6
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 300
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+------------------
+Month: 6
+LastEvent: 2016-03-30 21:30:55 - ConstructedSecondEngineBooster
+Popularity: 43
+Morale: 53
+Budget: 2468,10305524296
+Engineers: 21
+PrimaryProductionPool: 1549,8
+SecondaryProductionPool: 0
+PrimarySciencePool: 777,6
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 300
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+------------------
+Month: 7
+LastEvent: 2016-03-30 21:30:55 - CleanerFuelResearched
+Popularity: 43
+Morale: 53
+Budget: 2312,36163999762
+Engineers: 21
+PrimaryProductionPool: 1742,58
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 997,92
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 400
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+------------------
+Month: 8
+LastEvent: 2016-03-30 21:30:55 - ResearchedLifeSupport
+Popularity: 48
+Morale: 58
+Budget: 2183,50273687556
+Engineers: 21
+PrimaryProductionPool: 1742,58
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 2099,52
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 450
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+------------------
+Month: 9
+LastEvent: 2016-03-30 21:30:55 - ResearchedCockpit
+Popularity: 53
+Morale: 58
+Budget: 2057,5961133291
+Engineers: 21
+PrimaryProductionPool: 1742,58
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 3237,12
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 500
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+------------------
+Month: 10
+LastEvent: 2016-03-30 21:30:55 - ScientificMogul
+Popularity: 73
+Morale: 73
+Budget: 1922,28526511569
+Engineers: 21
+PrimaryProductionPool: 1742,58
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 550
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+------------------
+Month: 11
+LastEvent: 2016-03-30 21:30:55 - ConstructedCockpit
+Popularity: 88
+Morale: 88
+Budget: 1791,57741874763
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 700
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+------------------
+Month: 12
+LastEvent: 2016-03-30 21:30:55 - MoreEfficientTransportationTakesWorldByStorm
+Popularity: 88
+Morale: 88
+Budget: 1653,14139527648
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 940
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+------------------
+Month: 13
+LastEvent: 2016-03-30 21:30:55 - PrototypedASuperCell
+Popularity: 88
+Morale: 88
+Budget: 1514,7209951839
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 982,38
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 1140
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+------------------
+Month: 14
+LastEvent: 2016-03-30 21:30:55 - MakeSurveillanceSystem
+Popularity: 68
+Morale: 63
+Budget: 1387,77789805447
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 1771,98
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 1240
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+------------------
+Month: 15
+LastEvent: 2016-03-30 21:30:55 - ConstructDeepSleepChamber
+Popularity: 68
+Morale: 58
+Budget: 1250,82523434927
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 2456,58
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 1340
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+------------------
+Month: 16
+LastEvent: 2016-03-30 21:30:55 - NeuroControl
+Popularity: 68
+Morale: 53
+Budget: 1113,62168480345
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 3120,18
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 1440
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+------------------
+Month: 17
+LastEvent: 2016-03-30 21:30:55 - NeuroControl
+Popularity: 68
+Morale: 48
+Budget: 981,956997794079
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 3120,18
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 706,86
+GoalType: SmartCity
+Comment: 
+Score: 1440
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+------------------
+Month: 18
+LastEvent: 2016-03-30 21:30:55 - NeuroControl
+Popularity: 73
+Morale: 68
+Budget: 861,956997794079
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 3120,18
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 706,86
+GoalType: SmartCity
+Comment: 
+Score: 1440
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+------------------
+Month: 19
+LastEvent: 2016-03-30 21:30:55 - NeuroControl
+Popularity: 73
+Morale: 68
+Budget: 716,216181472976
+Engineers: 21
+PrimaryProductionPool: 3044,16
+SecondaryProductionPool: 3331,86
+PrimarySciencePool: 4616,64
+SecondarySciencePool: 1364,64
+Cargo: 777,42
+GoalType: SmartCity
+Comment: 
+Score: 1440
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+------------------
+Month: 20
+LastEvent: 2016-03-30 21:30:55 - RocketAssembled
+Popularity: 78
+Morale: 73
+Budget: 578,661955305683
+Engineers: 21
+PrimaryProductionPool: 4102,56
+SecondaryProductionPool: 3331,86
+PrimarySciencePool: 4616,64
+SecondarySciencePool: 1364,64
+Cargo: 777,42
+GoalType: SmartCity
+Comment: 
+Score: 1490
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+RocketAssembled
+------------------
+Month: 1
+LastEvent: 
+Popularity: 7
+Morale: 8
+Budget: 3132,27124561429
+Engineers: 21
+PrimaryProductionPool: 0
+SecondaryProductionPool: 0
+PrimarySciencePool: 0
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 0
+
+Events: 
+------------------
+Month: 2
+LastEvent: 
+Popularity: 8
+Morale: 8
+Budget: 2993,68852133336
+Engineers: 21
+PrimaryProductionPool: 0
+SecondaryProductionPool: 0
+PrimarySciencePool: 0
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 0
+
+Events: 
+------------------
+Month: 3
+LastEvent: 2016-03-30 21:33:12 - ResearchedEngineBooster
+Popularity: 18
+Morale: 18
+Budget: 2863,37727906107
+Engineers: 21
+PrimaryProductionPool: 0
+SecondaryProductionPool: 0
+PrimarySciencePool: 777,6
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 100
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+------------------
+Month: 4
+LastEvent: 2016-03-30 21:33:12 - ConstructedEngine
+Popularity: 28
+Morale: 28
+Budget: 2727,71211623806
+Engineers: 21
+PrimaryProductionPool: 743,4
+SecondaryProductionPool: 0
+PrimarySciencePool: 777,6
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 200
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+------------------
+Month: 5
+LastEvent: 2016-03-30 21:33:12 - ConstructedSecondEngineBooster
+Popularity: 38
+Morale: 33
+Budget: 2596,30444496931
+Engineers: 21
+PrimaryProductionPool: 1549,8
+SecondaryProductionPool: 0
+PrimarySciencePool: 777,6
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 300
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+------------------
+Month: 6
+LastEvent: 2016-03-30 21:33:12 - ConstructedSecondEngineBooster
+Popularity: 43
+Morale: 53
+Budget: 2476,30444496931
+Engineers: 21
+PrimaryProductionPool: 1549,8
+SecondaryProductionPool: 0
+PrimarySciencePool: 777,6
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 300
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+------------------
+Month: 7
+LastEvent: 2016-03-30 21:33:12 - CleanerFuelResearched
+Popularity: 43
+Morale: 53
+Budget: 2325,49843197246
+Engineers: 21
+PrimaryProductionPool: 1742,58
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 997,92
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 400
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+------------------
+Month: 8
+LastEvent: 2016-03-30 21:33:12 - ResearchedLifeSupport
+Popularity: 48
+Morale: 58
+Budget: 2198,44805680609
+Engineers: 21
+PrimaryProductionPool: 1742,58
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 2099,52
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 450
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+------------------
+Month: 9
+LastEvent: 2016-03-30 21:33:12 - ResearchedCockpit
+Popularity: 53
+Morale: 58
+Budget: 2066,2234110158
+Engineers: 21
+PrimaryProductionPool: 1742,58
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 3237,12
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 500
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+------------------
+Month: 10
+LastEvent: 2016-03-30 21:33:12 - ScientificMogul
+Popularity: 73
+Morale: 73
+Budget: 1935,53202185805
+Engineers: 21
+PrimaryProductionPool: 1742,58
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 550
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+------------------
+Month: 11
+LastEvent: 2016-03-30 21:33:12 - ConstructedCockpit
+Popularity: 88
+Morale: 88
+Budget: 1803,44626178893
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 700
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+------------------
+Month: 12
+LastEvent: 2016-03-30 21:33:12 - MoreEfficientTransportationTakesWorldByStorm
+Popularity: 88
+Morale: 88
+Budget: 1668,83677028764
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 940
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+------------------
+Month: 13
+LastEvent: 2016-03-30 21:33:12 - PrototypedASuperCell
+Popularity: 88
+Morale: 88
+Budget: 1530,58374129961
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 982,38
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 1140
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+------------------
+Month: 14
+LastEvent: 2016-03-30 21:33:12 - MakeSurveillanceSystem
+Popularity: 68
+Morale: 63
+Budget: 1401,90184124368
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 1771,98
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 1240
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+------------------
+Month: 15
+LastEvent: 2016-03-30 21:33:12 - ConstructDeepSleepChamber
+Popularity: 68
+Morale: 58
+Budget: 1271,02940227419
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 2456,58
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 1340
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+------------------
+Month: 16
+LastEvent: 2016-03-30 21:33:12 - NeuroControl
+Popularity: 68
+Morale: 53
+Budget: 1138,34786762406
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 3120,18
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 1440
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+------------------
+Month: 17
+LastEvent: 2016-03-30 21:33:12 - NeuroControl
+Popularity: 68
+Morale: 48
+Budget: 1000,18155767591
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 3120,18
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 706,86
+GoalType: SmartCity
+Comment: 
+Score: 1440
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+------------------
+Month: 18
+LastEvent: 2016-03-30 21:33:12 - NeuroControl
+Popularity: 73
+Morale: 68
+Budget: 880,181557675908
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 3120,18
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 706,86
+GoalType: SmartCity
+Comment: 
+Score: 1440
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+------------------
+Month: 19
+LastEvent: 2016-03-30 21:33:12 - NeuroControl
+Popularity: 73
+Morale: 68
+Budget: 722,302678177274
+Engineers: 21
+PrimaryProductionPool: 3044,16
+SecondaryProductionPool: 3331,86
+PrimarySciencePool: 4616,64
+SecondarySciencePool: 1364,64
+Cargo: 777,42
+GoalType: SmartCity
+Comment: 
+Score: 1440
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+------------------
+Month: 20
+LastEvent: 2016-03-30 21:33:12 - RocketAssembled
+Popularity: 78
+Morale: 73
+Budget: 589,269862793977
+Engineers: 21
+PrimaryProductionPool: 4102,56
+SecondaryProductionPool: 3331,86
+PrimarySciencePool: 4616,64
+SecondarySciencePool: 1364,64
+Cargo: 777,42
+GoalType: SmartCity
+Comment: 
+Score: 1490
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+RocketAssembled
+------------------
+Month: 21
+LastEvent: 2016-03-30 21:33:12 - RocketLaunched
+Popularity: 78
+Morale: 73
+Budget: 469,269862793977
+Engineers: 21
+PrimaryProductionPool: 4102,56
+SecondaryProductionPool: 3331,86
+PrimarySciencePool: 4616,64
+SecondarySciencePool: 1364,64
+Cargo: 777,42
+GoalType: SmartCity
+Comment: 
+Score: 14282,42
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+RocketAssembled
+RocketLaunched
+------------------
+Month: 1
+LastEvent: 
+Popularity: 7
+Morale: 8
+Budget: 3128,35751450311
+Engineers: 21
+PrimaryProductionPool: 0
+SecondaryProductionPool: 0
+PrimarySciencePool: 0
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 0
+
+Events: 
+------------------
+Month: 2
+LastEvent: 
+Popularity: 8
+Morale: 8
+Budget: 2990,58059229775
+Engineers: 21
+PrimaryProductionPool: 0
+SecondaryProductionPool: 0
+PrimarySciencePool: 0
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 0
+
+Events: 
+------------------
+Month: 3
+LastEvent: 2016-03-30 21:34:18 - ResearchedEngineBooster
+Popularity: 18
+Morale: 18
+Budget: 2856,20697138422
+Engineers: 21
+PrimaryProductionPool: 0
+SecondaryProductionPool: 0
+PrimarySciencePool: 777,6
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 100
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+------------------
+Month: 4
+LastEvent: 2016-03-30 21:34:18 - ConstructedEngine
+Popularity: 28
+Morale: 28
+Budget: 2720,35661448974
+Engineers: 21
+PrimaryProductionPool: 743,4
+SecondaryProductionPool: 0
+PrimarySciencePool: 777,6
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 200
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+------------------
+Month: 5
+LastEvent: 2016-03-30 21:34:18 - ConstructedSecondEngineBooster
+Popularity: 38
+Morale: 33
+Budget: 2586,53540381768
+Engineers: 21
+PrimaryProductionPool: 1549,8
+SecondaryProductionPool: 0
+PrimarySciencePool: 777,6
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 300
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+------------------
+Month: 6
+LastEvent: 2016-03-30 21:34:18 - ConstructedSecondEngineBooster
+Popularity: 43
+Morale: 53
+Budget: 2466,53540381768
+Engineers: 21
+PrimaryProductionPool: 1549,8
+SecondaryProductionPool: 0
+PrimarySciencePool: 777,6
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 300
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+------------------
+Month: 7
+LastEvent: 2016-03-30 21:34:18 - CleanerFuelResearched
+Popularity: 43
+Morale: 53
+Budget: 2305,21324423617
+Engineers: 21
+PrimaryProductionPool: 1742,58
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 997,92
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 400
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+------------------
+Month: 8
+LastEvent: 2016-03-30 21:34:18 - ResearchedLifeSupport
+Popularity: 48
+Morale: 58
+Budget: 2179,28567702383
+Engineers: 21
+PrimaryProductionPool: 1742,58
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 2099,52
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 450
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+------------------
+Month: 9
+LastEvent: 2016-03-30 21:34:18 - ResearchedCockpit
+Popularity: 53
+Morale: 58
+Budget: 2045,34982066618
+Engineers: 21
+PrimaryProductionPool: 1742,58
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 3237,12
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 500
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+------------------
+Month: 10
+LastEvent: 2016-03-30 21:34:18 - ScientificMogul
+Popularity: 73
+Morale: 73
+Budget: 1906,75895776681
+Engineers: 21
+PrimaryProductionPool: 1742,58
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 550
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+------------------
+Month: 11
+LastEvent: 2016-03-30 21:34:18 - ConstructedCockpit
+Popularity: 88
+Morale: 88
+Budget: 1768,56723382769
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 700
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+------------------
+Month: 12
+LastEvent: 2016-03-30 21:34:19 - MoreEfficientTransportationTakesWorldByStorm
+Popularity: 88
+Morale: 88
+Budget: 1635,62996497873
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 940
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+------------------
+Month: 13
+LastEvent: 2016-03-30 21:34:19 - PrototypedASuperCell
+Popularity: 88
+Morale: 88
+Budget: 1498,39931304725
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 982,38
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 1140
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+------------------
+Month: 14
+LastEvent: 2016-03-30 21:34:19 - MakeSurveillanceSystem
+Popularity: 68
+Morale: 63
+Budget: 1368,55928031661
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 1771,98
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 1240
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+------------------
+Month: 15
+LastEvent: 2016-03-30 21:34:19 - ConstructDeepSleepChamber
+Popularity: 68
+Morale: 58
+Budget: 1228,89283078671
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 2456,58
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 1340
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+------------------
+Month: 16
+LastEvent: 2016-03-30 21:34:19 - NeuroControl
+Popularity: 68
+Morale: 53
+Budget: 1096,94703663091
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 3120,18
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 1440
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+------------------
+Month: 17
+LastEvent: 2016-03-30 21:34:19 - NeuroControl
+Popularity: 68
+Morale: 48
+Budget: 965,335049012365
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 3120,18
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 706,86
+GoalType: SmartCity
+Comment: 
+Score: 1440
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+------------------
+Month: 18
+LastEvent: 2016-03-30 21:34:19 - NeuroControl
+Popularity: 73
+Morale: 68
+Budget: 845,335049012365
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 3120,18
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 706,86
+GoalType: SmartCity
+Comment: 
+Score: 1440
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+------------------
+Month: 19
+LastEvent: 2016-03-30 21:34:19 - NeuroControl
+Popularity: 73
+Morale: 68
+Budget: 675,698656628698
+Engineers: 21
+PrimaryProductionPool: 3044,16
+SecondaryProductionPool: 3331,86
+PrimarySciencePool: 4616,64
+SecondarySciencePool: 1364,64
+Cargo: 777,42
+GoalType: SmartCity
+Comment: 
+Score: 1440
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+------------------
+Month: 20
+LastEvent: 2016-03-30 21:34:19 - RocketAssembled
+Popularity: 78
+Morale: 73
+Budget: 540,31398274019
+Engineers: 21
+PrimaryProductionPool: 4102,56
+SecondaryProductionPool: 3331,86
+PrimarySciencePool: 4616,64
+SecondarySciencePool: 1364,64
+Cargo: 777,42
+GoalType: SmartCity
+Comment: 
+Score: 1490
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+RocketAssembled
+------------------
+Month: 1
+LastEvent: 
+Popularity: 7
+Morale: 8
+Budget: 3134,66217554624
+Engineers: 21
+PrimaryProductionPool: 0
+SecondaryProductionPool: 0
+PrimarySciencePool: 0
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 0
+
+Events: 
+------------------
+Month: 2
+LastEvent: 
+Popularity: 8
+Morale: 8
+Budget: 2996,93527962637
+Engineers: 21
+PrimaryProductionPool: 0
+SecondaryProductionPool: 0
+PrimarySciencePool: 0
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 0
+
+Events: 
+------------------
+Month: 3
+LastEvent: 2016-03-30 21:39:20 - ResearchedEngineBooster
+Popularity: 18
+Morale: 18
+Budget: 2863,38145711384
+Engineers: 21
+PrimaryProductionPool: 0
+SecondaryProductionPool: 0
+PrimarySciencePool: 777,6
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 100
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+------------------
+Month: 4
+LastEvent: 2016-03-30 21:39:21 - ConstructedEngine
+Popularity: 28
+Morale: 28
+Budget: 2729,20094243446
+Engineers: 21
+PrimaryProductionPool: 743,4
+SecondaryProductionPool: 0
+PrimarySciencePool: 777,6
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 200
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+------------------
+Month: 5
+LastEvent: 2016-03-30 21:39:21 - ConstructedSecondEngineBooster
+Popularity: 38
+Morale: 33
+Budget: 2598,63885004708
+Engineers: 21
+PrimaryProductionPool: 1549,8
+SecondaryProductionPool: 0
+PrimarySciencePool: 777,6
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 300
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+------------------
+Month: 6
+LastEvent: 2016-03-30 21:39:21 - ConstructedSecondEngineBooster
+Popularity: 43
+Morale: 53
+Budget: 2478,63885004708
+Engineers: 21
+PrimaryProductionPool: 1549,8
+SecondaryProductionPool: 0
+PrimarySciencePool: 777,6
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 300
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+------------------
+Month: 7
+LastEvent: 2016-03-30 21:39:22 - CleanerFuelResearched
+Popularity: 43
+Morale: 53
+Budget: 2330,35855353128
+Engineers: 21
+PrimaryProductionPool: 1742,58
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 997,92
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 400
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+------------------
+Month: 8
+LastEvent: 2016-03-30 21:39:23 - ResearchedLifeSupport
+Popularity: 48
+Morale: 58
+Budget: 2196,75972454565
+Engineers: 21
+PrimaryProductionPool: 1742,58
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 2099,52
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 450
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+------------------
+Month: 9
+LastEvent: 2016-03-30 21:39:23 - ResearchedCockpit
+Popularity: 53
+Morale: 58
+Budget: 2071,46512306131
+Engineers: 21
+PrimaryProductionPool: 1742,58
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 3237,12
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 500
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+------------------
+Month: 10
+LastEvent: 2016-03-30 21:39:29 - ScientificMogul
+Popularity: 73
+Morale: 73
+Budget: 1932,43912592411
+Engineers: 21
+PrimaryProductionPool: 1742,58
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 550
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+------------------
+Month: 11
+LastEvent: 2016-03-30 21:39:35 - ConstructedCockpit
+Popularity: 88
+Morale: 88
+Budget: 1796,40887871916
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 700
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+------------------
+Month: 12
+LastEvent: 2016-03-30 21:39:37 - MoreEfficientTransportationTakesWorldByStorm
+Popularity: 88
+Morale: 88
+Budget: 1656,9741767235
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 940
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+------------------
+Month: 13
+LastEvent: 2016-03-30 21:39:39 - PrototypedASuperCell
+Popularity: 88
+Morale: 88
+Budget: 1523,29095010566
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 982,38
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 1140
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+------------------
+Month: 14
+LastEvent: 2016-03-30 21:39:44 - MakeSurveillanceSystem
+Popularity: 68
+Morale: 63
+Budget: 1390,48395532672
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 1771,98
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 1240
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+------------------
+Month: 15
+LastEvent: 2016-03-30 21:39:50 - ConstructDeepSleepChamber
+Popularity: 68
+Morale: 58
+Budget: 1260,27590601718
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 2456,58
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 1340
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+------------------
+Month: 16
+LastEvent: 2016-03-30 21:39:52 - NeuroControl
+Popularity: 68
+Morale: 53
+Budget: 1128,69770956631
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 3120,18
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 1440
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+------------------
+Month: 17
+LastEvent: 2016-03-30 21:39:52 - NeuroControl
+Popularity: 68
+Morale: 48
+Budget: 992,238479420654
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 3120,18
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 706,86
+GoalType: SmartCity
+Comment: 
+Score: 1440
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+------------------
+Month: 18
+LastEvent: 2016-03-30 21:39:52 - NeuroControl
+Popularity: 73
+Morale: 68
+Budget: 872,238479420654
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 3120,18
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 706,86
+GoalType: SmartCity
+Comment: 
+Score: 1440
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+------------------
+Month: 19
+LastEvent: 2016-03-30 21:39:52 - NeuroControl
+Popularity: 73
+Morale: 68
+Budget: 707,29620336429
+Engineers: 21
+PrimaryProductionPool: 3044,16
+SecondaryProductionPool: 3331,86
+PrimarySciencePool: 4616,64
+SecondarySciencePool: 1364,64
+Cargo: 777,42
+GoalType: SmartCity
+Comment: 
+Score: 1440
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+------------------
+Month: 20
+LastEvent: 2016-03-30 21:40:06 - RocketAssembled
+Popularity: 78
+Morale: 73
+Budget: 574,681685839166
+Engineers: 21
+PrimaryProductionPool: 4102,56
+SecondaryProductionPool: 3331,86
+PrimarySciencePool: 4616,64
+SecondarySciencePool: 1364,64
+Cargo: 777,42
+GoalType: SmartCity
+Comment: 
+Score: 1490
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+RocketAssembled
+------------------
+Month: 1
+LastEvent: 
+Popularity: 7
+Morale: 8
+Budget: 3130,39978017816
+Engineers: 21
+PrimaryProductionPool: 0
+SecondaryProductionPool: 0
+PrimarySciencePool: 0
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 0
+
+Events: 
+------------------
+Month: 2
+LastEvent: 
+Popularity: 8
+Morale: 8
+Budget: 2993,97220912342
+Engineers: 21
+PrimaryProductionPool: 0
+SecondaryProductionPool: 0
+PrimarySciencePool: 0
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 0
+
+Events: 
+------------------
+Month: 3
+LastEvent: 2016-03-30 21:40:20 - ResearchedEngineBooster
+Popularity: 18
+Morale: 18
+Budget: 2855,66406264001
+Engineers: 21
+PrimaryProductionPool: 0
+SecondaryProductionPool: 0
+PrimarySciencePool: 777,6
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 100
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+------------------
+Month: 4
+LastEvent: 2016-03-30 21:40:20 - ConstructedEngine
+Popularity: 28
+Morale: 28
+Budget: 2719,05654924645
+Engineers: 21
+PrimaryProductionPool: 743,4
+SecondaryProductionPool: 0
+PrimarySciencePool: 777,6
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 200
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+------------------
+Month: 5
+LastEvent: 2016-03-30 21:40:20 - ConstructedSecondEngineBooster
+Popularity: 38
+Morale: 33
+Budget: 2587,03298523185
+Engineers: 21
+PrimaryProductionPool: 1549,8
+SecondaryProductionPool: 0
+PrimarySciencePool: 777,6
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 300
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+------------------
+Month: 6
+LastEvent: 2016-03-30 21:40:20 - ConstructedSecondEngineBooster
+Popularity: 43
+Morale: 53
+Budget: 2467,03298523185
+Engineers: 21
+PrimaryProductionPool: 1549,8
+SecondaryProductionPool: 0
+PrimarySciencePool: 777,6
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 300
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+------------------
+Month: 7
+LastEvent: 2016-03-30 21:40:20 - CleanerFuelResearched
+Popularity: 43
+Morale: 53
+Budget: 2321,94103945836
+Engineers: 21
+PrimaryProductionPool: 1742,58
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 997,92
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 400
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+------------------
+Month: 8
+LastEvent: 2016-03-30 21:40:20 - ResearchedLifeSupport
+Popularity: 48
+Morale: 58
+Budget: 2191,295834012
+Engineers: 21
+PrimaryProductionPool: 1742,58
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 2099,52
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 450
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+------------------
+Month: 9
+LastEvent: 2016-03-30 21:40:21 - ResearchedCockpit
+Popularity: 53
+Morale: 58
+Budget: 2058,77053344798
+Engineers: 21
+PrimaryProductionPool: 1742,58
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 3237,12
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 500
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+------------------
+Month: 10
+LastEvent: 2016-03-30 21:40:21 - ScientificMogul
+Popularity: 73
+Morale: 73
+Budget: 1920,93148567059
+Engineers: 21
+PrimaryProductionPool: 1742,58
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 550
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+------------------
+Month: 11
+LastEvent: 2016-03-30 21:40:21 - ConstructedCockpit
+Popularity: 88
+Morale: 88
+Budget: 1789,67319432398
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 700
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+------------------
+Month: 12
+LastEvent: 2016-03-30 21:40:21 - MoreEfficientTransportationTakesWorldByStorm
+Popularity: 88
+Morale: 88
+Budget: 1651,61391930497
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 940
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+------------------
+Month: 13
+LastEvent: 2016-03-30 21:40:21 - PrototypedASuperCell
+Popularity: 88
+Morale: 88
+Budget: 1515,65349392158
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 982,38
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 1140
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+------------------
+Month: 14
+LastEvent: 2016-03-30 21:40:23 - MakeSurveillanceSystem
+Popularity: 68
+Morale: 63
+Budget: 1390,30818301733
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 1771,98
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 1240
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+------------------
+Month: 15
+LastEvent: 2016-03-30 21:40:23 - ConstructDeepSleepChamber
+Popularity: 68
+Morale: 58
+Budget: 1255,18513937722
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 2456,58
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 1340
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+------------------
+Month: 16
+LastEvent: 2016-03-30 21:40:23 - NeuroControl
+Popularity: 68
+Morale: 53
+Budget: 1116,26784624358
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 3120,18
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 1440
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+------------------
+Month: 17
+LastEvent: 2016-03-30 21:40:23 - NeuroControl
+Popularity: 68
+Morale: 48
+Budget: 977,588522568153
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 3120,18
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 706,86
+GoalType: SmartCity
+Comment: 
+Score: 1440
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+------------------
+Month: 18
+LastEvent: 2016-03-30 21:40:23 - NeuroControl
+Popularity: 73
+Morale: 68
+Budget: 857,588522568153
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 3120,18
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 706,86
+GoalType: SmartCity
+Comment: 
+Score: 1440
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+------------------
+Month: 19
+LastEvent: 2016-03-30 21:40:23 - NeuroControl
+Popularity: 73
+Morale: 68
+Budget: 705,354113367085
+Engineers: 21
+PrimaryProductionPool: 3044,16
+SecondaryProductionPool: 3331,86
+PrimarySciencePool: 4616,64
+SecondarySciencePool: 1364,64
+Cargo: 777,42
+GoalType: SmartCity
+Comment: 
+Score: 1440
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+------------------
+Month: 20
+LastEvent: 2016-03-30 21:40:26 - RocketAssembled
+Popularity: 78
+Morale: 73
+Budget: 569,585947301046
+Engineers: 21
+PrimaryProductionPool: 4102,56
+SecondaryProductionPool: 3331,86
+PrimarySciencePool: 4616,64
+SecondarySciencePool: 1364,64
+Cargo: 777,42
+GoalType: SmartCity
+Comment: 
+Score: 1490
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+RocketAssembled
+------------------
+Month: 1
+LastEvent: 
+Popularity: 7
+Morale: 8
+Budget: 3134,24311652279
+Engineers: 21
+PrimaryProductionPool: 0
+SecondaryProductionPool: 0
+PrimarySciencePool: 0
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 0
+
+Events: 
+------------------
+Month: 2
+LastEvent: 
+Popularity: 8
+Morale: 8
+Budget: 2997,47978808474
+Engineers: 21
+PrimaryProductionPool: 0
+SecondaryProductionPool: 0
+PrimarySciencePool: 0
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 0
+
+Events: 
+------------------
+Month: 3
+LastEvent: 2016-03-30 21:46:06 - ResearchedEngineBooster
+Popularity: 18
+Morale: 18
+Budget: 2863,4948034205
+Engineers: 21
+PrimaryProductionPool: 0
+SecondaryProductionPool: 0
+PrimarySciencePool: 777,6
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 100
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+------------------
+Month: 4
+LastEvent: 2016-03-30 21:46:06 - ConstructedEngine
+Popularity: 28
+Morale: 28
+Budget: 2731,88152621355
+Engineers: 21
+PrimaryProductionPool: 743,4
+SecondaryProductionPool: 0
+PrimarySciencePool: 777,6
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 200
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+------------------
+Month: 5
+LastEvent: 2016-03-30 21:46:06 - ConstructedSecondEngineBooster
+Popularity: 38
+Morale: 33
+Budget: 2600,76922902175
+Engineers: 21
+PrimaryProductionPool: 1549,8
+SecondaryProductionPool: 0
+PrimarySciencePool: 777,6
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 300
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+------------------
+Month: 6
+LastEvent: 2016-03-30 21:46:06 - ConstructedSecondEngineBooster
+Popularity: 43
+Morale: 53
+Budget: 2480,76922902175
+Engineers: 21
+PrimaryProductionPool: 1549,8
+SecondaryProductionPool: 0
+PrimarySciencePool: 777,6
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 300
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+------------------
+Month: 7
+LastEvent: 2016-03-30 21:46:06 - CleanerFuelResearched
+Popularity: 43
+Morale: 53
+Budget: 2338,34196703198
+Engineers: 21
+PrimaryProductionPool: 1742,58
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 997,92
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 400
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+------------------
+Month: 8
+LastEvent: 2016-03-30 21:46:06 - ResearchedLifeSupport
+Popularity: 48
+Morale: 58
+Budget: 2210,24740984209
+Engineers: 21
+PrimaryProductionPool: 1742,58
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 2099,52
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 450
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+------------------
+Month: 9
+LastEvent: 2016-03-30 21:46:06 - ResearchedCockpit
+Popularity: 53
+Morale: 58
+Budget: 2081,78930632155
+Engineers: 21
+PrimaryProductionPool: 1742,58
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 3237,12
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 500
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+------------------
+Month: 10
+LastEvent: 2016-03-30 21:46:06 - ScientificMogul
+Popularity: 73
+Morale: 73
+Budget: 1950,5410665672
+Engineers: 21
+PrimaryProductionPool: 1742,58
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 550
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+------------------
+Month: 11
+LastEvent: 2016-03-30 21:46:06 - ConstructedCockpit
+Popularity: 88
+Morale: 88
+Budget: 1813,58523613707
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 700
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+------------------
+Month: 12
+LastEvent: 2016-03-30 21:46:06 - MoreEfficientTransportationTakesWorldByStorm
+Popularity: 88
+Morale: 88
+Budget: 1681,46240492187
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 940
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+------------------
+Month: 13
+LastEvent: 2016-03-30 21:46:06 - PrototypedASuperCell
+Popularity: 88
+Morale: 88
+Budget: 1547,446641369
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 982,38
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 1140
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+------------------
+Month: 14
+LastEvent: 2016-03-30 21:46:06 - MakeSurveillanceSystem
+Popularity: 68
+Morale: 63
+Budget: 1413,78887432804
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 1771,98
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 1240
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+------------------
+Month: 15
+LastEvent: 2016-03-30 21:46:06 - ConstructDeepSleepChamber
+Popularity: 68
+Morale: 58
+Budget: 1279,69063505982
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 2456,58
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 1340
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+------------------
+Month: 16
+LastEvent: 2016-03-30 21:46:06 - NeuroControl
+Popularity: 68
+Morale: 53
+Budget: 1148,75096193922
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 3120,18
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 1440
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+------------------
+Month: 17
+LastEvent: 2016-03-30 21:46:06 - NeuroControl
+Popularity: 68
+Morale: 48
+Budget: 1016,05029627031
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 3120,18
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 706,86
+GoalType: SmartCity
+Comment: 
+Score: 1440
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+------------------
+Month: 18
+LastEvent: 2016-03-30 21:46:06 - NeuroControl
+Popularity: 73
+Morale: 68
+Budget: 896,050296270312
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 3120,18
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 706,86
+GoalType: SmartCity
+Comment: 
+Score: 1440
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+------------------
+Month: 19
+LastEvent: 2016-03-30 21:46:06 - NeuroControl
+Popularity: 73
+Morale: 68
+Budget: 742,43056913951
+Engineers: 21
+PrimaryProductionPool: 3044,16
+SecondaryProductionPool: 3331,86
+PrimarySciencePool: 4616,64
+SecondarySciencePool: 1364,64
+Cargo: 777,42
+GoalType: SmartCity
+Comment: 
+Score: 1440
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+------------------
+Month: 20
+LastEvent: 2016-03-30 21:46:06 - RocketAssembled
+Popularity: 78
+Morale: 73
+Budget: 609,005936658478
+Engineers: 21
+PrimaryProductionPool: 4102,56
+SecondaryProductionPool: 3331,86
+PrimarySciencePool: 4616,64
+SecondarySciencePool: 1364,64
+Cargo: 777,42
+GoalType: SmartCity
+Comment: 
+Score: 1490
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+RocketAssembled
+------------------
+Month: 21
+LastEvent: 2016-03-30 21:46:06 - RocketLaunched
+Popularity: 78
+Morale: 73
+Budget: 489,005936658478
+Engineers: 21
+PrimaryProductionPool: 4102,56
+SecondaryProductionPool: 3331,86
+PrimarySciencePool: 4616,64
+SecondarySciencePool: 1364,64
+Cargo: 777,42
+GoalType: SmartCity
+Comment: 
+Score: 15282,42
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+RocketAssembled
+RocketLaunched
+------------------
+Month: 1
+LastEvent: 
+Popularity: 7
+Morale: 8
+Budget: 3128,01478268719
+Engineers: 21
+PrimaryProductionPool: 0
+SecondaryProductionPool: 0
+PrimarySciencePool: 0
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 0
+
+Events: 
+------------------
+Month: 2
+LastEvent: 
+Popularity: 8
+Morale: 8
+Budget: 2991,90820354359
+Engineers: 21
+PrimaryProductionPool: 0
+SecondaryProductionPool: 0
+PrimarySciencePool: 0
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 0
+
+Events: 
+------------------
+Month: 3
+LastEvent: 2016-03-30 21:47:34 - ResearchedEngineBooster
+Popularity: 18
+Morale: 18
+Budget: 2861,80532153081
+Engineers: 21
+PrimaryProductionPool: 0
+SecondaryProductionPool: 0
+PrimarySciencePool: 777,6
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 100
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+------------------
+Month: 4
+LastEvent: 2016-03-30 21:47:34 - ConstructedEngine
+Popularity: 28
+Morale: 28
+Budget: 2724,24582065048
+Engineers: 21
+PrimaryProductionPool: 743,4
+SecondaryProductionPool: 0
+PrimarySciencePool: 777,6
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 200
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+------------------
+Month: 5
+LastEvent: 2016-03-30 21:47:34 - ConstructedSecondEngineBooster
+Popularity: 38
+Morale: 33
+Budget: 2585,721950536
+Engineers: 21
+PrimaryProductionPool: 1549,8
+SecondaryProductionPool: 0
+PrimarySciencePool: 777,6
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 300
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+------------------
+Month: 6
+LastEvent: 2016-03-30 21:47:34 - ConstructedSecondEngineBooster
+Popularity: 43
+Morale: 53
+Budget: 2465,721950536
+Engineers: 21
+PrimaryProductionPool: 1549,8
+SecondaryProductionPool: 0
+PrimarySciencePool: 777,6
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 300
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+------------------
+Month: 7
+LastEvent: 2016-03-30 21:47:34 - CleanerFuelResearched
+Popularity: 43
+Morale: 53
+Budget: 2320,36008632991
+Engineers: 21
+PrimaryProductionPool: 1742,58
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 997,92
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 400
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+------------------
+Month: 8
+LastEvent: 2016-03-30 21:47:34 - ResearchedLifeSupport
+Popularity: 48
+Morale: 58
+Budget: 2193,47407506009
+Engineers: 21
+PrimaryProductionPool: 1742,58
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 2099,52
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 450
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+------------------
+Month: 9
+LastEvent: 2016-03-30 21:47:34 - ResearchedCockpit
+Popularity: 53
+Morale: 58
+Budget: 2067,21932953793
+Engineers: 21
+PrimaryProductionPool: 1742,58
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 3237,12
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 500
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+------------------
+Month: 10
+LastEvent: 2016-03-30 21:47:34 - ScientificMogul
+Popularity: 73
+Morale: 73
+Budget: 1936,92254827913
+Engineers: 21
+PrimaryProductionPool: 1742,58
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 550
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+------------------
+Month: 11
+LastEvent: 2016-03-30 21:47:34 - ConstructedCockpit
+Popularity: 88
+Morale: 88
+Budget: 1804,68795242239
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 700
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+------------------
+Month: 12
+LastEvent: 2016-03-30 21:47:34 - MoreEfficientTransportationTakesWorldByStorm
+Popularity: 88
+Morale: 88
+Budget: 1671,31406904492
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 940
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+------------------
+Month: 13
+LastEvent: 2016-03-30 21:47:34 - PrototypedASuperCell
+Popularity: 88
+Morale: 88
+Budget: 1536,56506938467
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 982,38
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 1140
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+------------------
+Month: 14
+LastEvent: 2016-03-30 21:47:34 - MakeSurveillanceSystem
+Popularity: 68
+Morale: 63
+Budget: 1402,86568332597
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 1771,98
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 1240
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+------------------
+Month: 15
+LastEvent: 2016-03-30 21:47:34 - ConstructDeepSleepChamber
+Popularity: 68
+Morale: 58
+Budget: 1272,85136237408
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 2456,58
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 1340
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+------------------
+Month: 16
+LastEvent: 2016-03-30 21:47:34 - NeuroControl
+Popularity: 68
+Morale: 53
+Budget: 1139,67857473049
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 3120,18
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 1440
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+------------------
+Month: 17
+LastEvent: 2016-03-30 21:47:34 - NeuroControl
+Popularity: 68
+Morale: 48
+Budget: 1004,987692961
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 3120,18
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 706,86
+GoalType: SmartCity
+Comment: 
+Score: 1440
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+------------------
+Month: 18
+LastEvent: 2016-03-30 21:47:34 - NeuroControl
+Popularity: 73
+Morale: 68
+Budget: 884,987692960998
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 3120,18
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 706,86
+GoalType: SmartCity
+Comment: 
+Score: 1440
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+------------------
+Month: 19
+LastEvent: 2016-03-30 21:47:34 - NeuroControl
+Popularity: 73
+Morale: 68
+Budget: 742,488853457612
+Engineers: 21
+PrimaryProductionPool: 3044,16
+SecondaryProductionPool: 3331,86
+PrimarySciencePool: 4616,64
+SecondarySciencePool: 1364,64
+Cargo: 777,42
+GoalType: SmartCity
+Comment: 
+Score: 1440
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+------------------
+Month: 20
+LastEvent: 2016-03-30 21:47:34 - RocketAssembled
+Popularity: 78
+Morale: 73
+Budget: 607,456621852451
+Engineers: 21
+PrimaryProductionPool: 4102,56
+SecondaryProductionPool: 3331,86
+PrimarySciencePool: 4616,64
+SecondarySciencePool: 1364,64
+Cargo: 777,42
+GoalType: SmartCity
+Comment: 
+Score: 1490
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+RocketAssembled
+------------------
+Month: 21
+LastEvent: 2016-03-30 21:47:34 - RocketLaunched
+Popularity: 78
+Morale: 73
+Budget: 487,456621852451
+Engineers: 21
+PrimaryProductionPool: 4102,56
+SecondaryProductionPool: 3331,86
+PrimarySciencePool: 4616,64
+SecondarySciencePool: 1364,64
+Cargo: 777,42
+GoalType: SmartCity
+Comment: 
+Score: 15282,42
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+RocketAssembled
+RocketLaunched
+------------------
+Month: 1
+LastEvent: 
+Popularity: 7
+Morale: 8
+Budget: 3126,85038152703
+Engineers: 21
+PrimaryProductionPool: 0
+SecondaryProductionPool: 0
+PrimarySciencePool: 0
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 0
+
+Events: 
+------------------
+Month: 2
+LastEvent: 
+Popularity: 8
+Morale: 8
+Budget: 2991,13258507854
+Engineers: 21
+PrimaryProductionPool: 0
+SecondaryProductionPool: 0
+PrimarySciencePool: 0
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 0
+
+Events: 
+------------------
+Month: 3
+LastEvent: 2016-03-30 22:01:17 - ResearchedEngineBooster
+Popularity: 18
+Morale: 18
+Budget: 2857,66970844132
+Engineers: 21
+PrimaryProductionPool: 0
+SecondaryProductionPool: 0
+PrimarySciencePool: 777,6
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 100
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+------------------
+Month: 4
+LastEvent: 2016-03-30 22:01:17 - ConstructedEngine
+Popularity: 28
+Morale: 28
+Budget: 2723,92853801554
+Engineers: 21
+PrimaryProductionPool: 743,4
+SecondaryProductionPool: 0
+PrimarySciencePool: 777,6
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 200
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+------------------
+Month: 5
+LastEvent: 2016-03-30 22:01:17 - ConstructedSecondEngineBooster
+Popularity: 38
+Morale: 33
+Budget: 2590,10087285428
+Engineers: 21
+PrimaryProductionPool: 1549,8
+SecondaryProductionPool: 0
+PrimarySciencePool: 777,6
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 300
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+------------------
+Month: 6
+LastEvent: 2016-03-30 22:01:17 - ConstructedSecondEngineBooster
+Popularity: 43
+Morale: 53
+Budget: 2470,10087285428
+Engineers: 21
+PrimaryProductionPool: 1549,8
+SecondaryProductionPool: 0
+PrimarySciencePool: 777,6
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 300
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+------------------
+Month: 7
+LastEvent: 2016-03-30 22:01:17 - CleanerFuelResearched
+Popularity: 43
+Morale: 53
+Budget: 2319,22367006271
+Engineers: 21
+PrimaryProductionPool: 1742,58
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 997,92
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 400
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+------------------
+Month: 8
+LastEvent: 2016-03-30 22:01:17 - ResearchedLifeSupport
+Popularity: 48
+Morale: 58
+Budget: 2185,72836196783
+Engineers: 21
+PrimaryProductionPool: 1742,58
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 2099,52
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 450
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+------------------
+Month: 9
+LastEvent: 2016-03-30 22:01:17 - ResearchedCockpit
+Popularity: 53
+Morale: 58
+Budget: 2057,10102965688
+Engineers: 21
+PrimaryProductionPool: 1742,58
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 3237,12
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 500
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+------------------
+Month: 10
+LastEvent: 2016-03-30 22:01:17 - ScientificMogul
+Popularity: 73
+Morale: 73
+Budget: 1920,0661810092
+Engineers: 21
+PrimaryProductionPool: 1742,58
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 550
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+------------------
+Month: 11
+LastEvent: 2016-03-30 22:01:17 - ConstructedCockpit
+Popularity: 88
+Morale: 88
+Budget: 1789,83074319308
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 700
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+------------------
+Month: 12
+LastEvent: 2016-03-30 22:01:17 - MoreEfficientTransportationTakesWorldByStorm
+Popularity: 88
+Morale: 88
+Budget: 1658,25085522758
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 940
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+------------------
+Month: 13
+LastEvent: 2016-03-30 22:01:17 - PrototypedASuperCell
+Popularity: 88
+Morale: 88
+Budget: 1520,13707111829
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 982,38
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 1140
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+------------------
+Month: 14
+LastEvent: 2016-03-30 22:01:17 - MakeSurveillanceSystem
+Popularity: 68
+Morale: 63
+Budget: 1387,76291970525
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 1771,98
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 1240
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+------------------
+Month: 15
+LastEvent: 2016-03-30 22:01:17 - ConstructDeepSleepChamber
+Popularity: 68
+Morale: 58
+Budget: 1251,29982913905
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 2456,58
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 1340
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+------------------
+Month: 16
+LastEvent: 2016-03-30 22:01:17 - NeuroControl
+Popularity: 68
+Morale: 53
+Budget: 1116,83261522876
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 3120,18
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 1440
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+------------------
+Month: 17
+LastEvent: 2016-03-30 22:01:17 - NeuroControl
+Popularity: 68
+Morale: 48
+Budget: 980,868783635493
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 3120,18
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 706,86
+GoalType: SmartCity
+Comment: 
+Score: 1440
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+------------------
+Month: 18
+LastEvent: 2016-03-30 22:01:17 - NeuroControl
+Popularity: 73
+Morale: 68
+Budget: 860,868783635493
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 3120,18
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 706,86
+GoalType: SmartCity
+Comment: 
+Score: 1440
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+------------------
+Month: 19
+LastEvent: 2016-03-30 22:01:17 - NeuroControl
+Popularity: 73
+Morale: 68
+Budget: 713,472075054177
+Engineers: 21
+PrimaryProductionPool: 3044,16
+SecondaryProductionPool: 3331,86
+PrimarySciencePool: 4616,64
+SecondarySciencePool: 1364,64
+Cargo: 777,42
+GoalType: SmartCity
+Comment: 
+Score: 1440
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+------------------
+Month: 20
+LastEvent: 2016-03-30 22:01:17 - RocketAssembled
+Popularity: 78
+Morale: 73
+Budget: 574,758106295373
+Engineers: 21
+PrimaryProductionPool: 4102,56
+SecondaryProductionPool: 3331,86
+PrimarySciencePool: 4616,64
+SecondarySciencePool: 1364,64
+Cargo: 777,42
+GoalType: SmartCity
+Comment: 
+Score: 1490
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+RocketAssembled
+------------------
+Month: 1
+LastEvent: 
+Popularity: 7
+Morale: 8
+Budget: 3131,34568182581
+Engineers: 21
+PrimaryProductionPool: 0
+SecondaryProductionPool: 0
+PrimarySciencePool: 0
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 0
+
+Events: 
+------------------
+Month: 2
+LastEvent: 
+Popularity: 8
+Morale: 8
+Budget: 2999,07769937258
+Engineers: 21
+PrimaryProductionPool: 0
+SecondaryProductionPool: 0
+PrimarySciencePool: 0
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 0
+
+Events: 
+------------------
+Month: 3
+LastEvent: 2016-03-30 22:06:06 - ResearchedEngineBooster
+Popularity: 18
+Morale: 18
+Budget: 2864,65995506833
+Engineers: 21
+PrimaryProductionPool: 0
+SecondaryProductionPool: 0
+PrimarySciencePool: 777,6
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 100
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+------------------
+Month: 4
+LastEvent: 2016-03-30 22:06:06 - ConstructedEngine
+Popularity: 28
+Morale: 28
+Budget: 2733,26349049726
+Engineers: 21
+PrimaryProductionPool: 743,4
+SecondaryProductionPool: 0
+PrimarySciencePool: 777,6
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 200
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+------------------
+Month: 5
+LastEvent: 2016-03-30 22:06:06 - ConstructedSecondEngineBooster
+Popularity: 38
+Morale: 33
+Budget: 2594,72629863756
+Engineers: 21
+PrimaryProductionPool: 1549,8
+SecondaryProductionPool: 0
+PrimarySciencePool: 777,6
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 300
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+------------------
+Month: 6
+LastEvent: 2016-03-30 22:06:06 - ConstructedSecondEngineBooster
+Popularity: 43
+Morale: 53
+Budget: 2474,72629863756
+Engineers: 21
+PrimaryProductionPool: 1549,8
+SecondaryProductionPool: 0
+PrimarySciencePool: 777,6
+SecondarySciencePool: 0
+Cargo: 0
+GoalType: SmartCity
+Comment: 
+Score: 300
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+------------------
+Month: 7
+LastEvent: 2016-03-30 22:06:06 - CleanerFuelResearched
+Popularity: 43
+Morale: 53
+Budget: 2324,78038664431
+Engineers: 21
+PrimaryProductionPool: 1742,58
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 997,92
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 400
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+------------------
+Month: 8
+LastEvent: 2016-03-30 22:06:06 - ResearchedLifeSupport
+Popularity: 48
+Morale: 58
+Budget: 2198,64168765426
+Engineers: 21
+PrimaryProductionPool: 1742,58
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 2099,52
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 450
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+------------------
+Month: 9
+LastEvent: 2016-03-30 22:06:06 - ResearchedCockpit
+Popularity: 53
+Morale: 58
+Budget: 2071,56884122014
+Engineers: 21
+PrimaryProductionPool: 1742,58
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 3237,12
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 500
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+------------------
+Month: 10
+LastEvent: 2016-03-30 22:06:06 - ScientificMogul
+Popularity: 73
+Morale: 73
+Budget: 1941,52318442544
+Engineers: 21
+PrimaryProductionPool: 1742,58
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 550
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+------------------
+Month: 11
+LastEvent: 2016-03-30 22:06:06 - ConstructedCockpit
+Popularity: 88
+Morale: 88
+Budget: 1808,84567127276
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 220,32
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 700
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+------------------
+Month: 12
+LastEvent: 2016-03-30 22:06:06 - MoreEfficientTransportationTakesWorldByStorm
+Popularity: 88
+Morale: 88
+Budget: 1676,48286613705
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 192,78
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 940
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+------------------
+Month: 13
+LastEvent: 2016-03-30 22:06:06 - PrototypedASuperCell
+Popularity: 88
+Morale: 88
+Budget: 1537,07676615197
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 982,38
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 1140
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+------------------
+Month: 14
+LastEvent: 2016-03-30 22:06:06 - MakeSurveillanceSystem
+Popularity: 68
+Morale: 63
+Budget: 1404,52934268142
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 1771,98
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 1240
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+------------------
+Month: 15
+LastEvent: 2016-03-30 22:06:06 - ConstructDeepSleepChamber
+Popularity: 68
+Morale: 58
+Budget: 1273,31261366294
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 2456,58
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 1340
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+------------------
+Month: 16
+LastEvent: 2016-03-30 22:06:06 - NeuroControl
+Popularity: 68
+Morale: 53
+Budget: 1136,66325368297
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 3120,18
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 64,26
+GoalType: SmartCity
+Comment: 
+Score: 1440
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+------------------
+Month: 17
+LastEvent: 2016-03-30 22:06:06 - NeuroControl
+Popularity: 68
+Morale: 48
+Budget: 998,990493136919
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 3120,18
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 706,86
+GoalType: SmartCity
+Comment: 
+Score: 1440
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+------------------
+Month: 18
+LastEvent: 2016-03-30 22:06:06 - NeuroControl
+Popularity: 73
+Morale: 68
+Budget: 878,990493136919
+Engineers: 21
+PrimaryProductionPool: 2832,48
+SecondaryProductionPool: 3120,18
+PrimarySciencePool: 4374,72
+SecondarySciencePool: 1122,72
+Cargo: 706,86
+GoalType: SmartCity
+Comment: 
+Score: 1440
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+------------------
+Month: 19
+LastEvent: 2016-03-30 22:06:06 - NeuroControl
+Popularity: 73
+Morale: 68
+Budget: 717,736592659604
+Engineers: 21
+PrimaryProductionPool: 3044,16
+SecondaryProductionPool: 3331,86
+PrimarySciencePool: 4616,64
+SecondarySciencePool: 1364,64
+Cargo: 777,42
+GoalType: SmartCity
+Comment: 
+Score: 1440
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+------------------
+Month: 20
+LastEvent: 2016-03-30 22:06:06 - RocketAssembled
+Popularity: 78
+Morale: 73
+Budget: 586,579630904169
+Engineers: 21
+PrimaryProductionPool: 4102,56
+SecondaryProductionPool: 3331,86
+PrimarySciencePool: 4616,64
+SecondarySciencePool: 1364,64
+Cargo: 777,42
+GoalType: SmartCity
+Comment: 
+Score: 1490
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+RocketAssembled
+------------------
+Month: 21
+LastEvent: 2016-03-30 22:06:06 - RocketLaunched
+Popularity: 78
+Morale: 73
+Budget: 466,579630904169
+Engineers: 21
+PrimaryProductionPool: 4102,56
+SecondaryProductionPool: 3331,86
+PrimarySciencePool: 4616,64
+SecondarySciencePool: 1364,64
+Cargo: 777,42
+GoalType: SmartCity
+Comment: 
+Score: 15267,42
+
+Events: 
+ResearchedEngine
+ResearchedEngineBooster
+ConstructedFirstEngineBooster
+ConstructedEngine
+ConstructedThirdEngineBooster
+ConstructedSecondEngineBooster
+CleanerFuelResearched
+ResearchedLifeSupport
+ResearchedCockpit
+ScientificMogul
+ConstructedSecondLifeSupport
+ConstructedFirstLifeSupport
+ConstructedCockpit
+UniversalBatteryResearched
+MoreEfficientTransportationDesigned
+MoreEfficientTransportationIntroduced
+MoreEfficientTransportationTakesWorldByStorm
+CleanerFuelBuilt
+PrototypedASuperCell
+MakeSurveillanceSystem
+ConstructDeepSleepChamber
+NeuroControl
+RocketAssembled
+RocketLaunched
+------------------
