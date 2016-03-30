@@ -1,1071 +1,357 @@
-Budget: 3125,39876849875
-PrimaryProductionPool: 0
-SecondaryProductionPool: 0
-PrimarySciencePool: 0
-SecondarySciencePool: 0
-Cargo: 0
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
-LastEvent: 
-Comment: 
 Month: 1
-GoalType: SmartCity
-Morale: 8
-Popularity: 7
-Scientists: 4
-Engineers: 21
-Score: 0
-------------------
-Budget: 2992,27768305097
-PrimaryProductionPool: 0
-SecondaryProductionPool: 0
-PrimarySciencePool: 0
-SecondarySciencePool: 0
-Cargo: 0
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
 LastEvent: 
-Comment: 
-Month: 2
-GoalType: SmartCity
-Morale: 8
-Popularity: 8
-Scientists: 24
-Engineers: 21
-Score: 0
-------------------
-Budget: 2860,61209474486
-PrimaryProductionPool: 0
-SecondaryProductionPool: 0
-PrimarySciencePool: 777,6
-SecondarySciencePool: 0
-Cargo: 0
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
-LastEvent: 2016-03-30 12:38:17 - ResearchedEngineBooster
-Comment: 
-Month: 3
-GoalType: SmartCity
-Morale: 18
-Popularity: 18
-Scientists: 24
-Engineers: 21
-Score: 100
-------------------
-Budget: 2726,5821146367
-PrimaryProductionPool: 743,4
-SecondaryProductionPool: 0
-PrimarySciencePool: 777,6
-SecondarySciencePool: 0
-Cargo: 0
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
-LastEvent: 2016-03-30 12:38:17 - ConstructedEngine
-Comment: 
-Month: 4
-GoalType: SmartCity
-Morale: 28
-Popularity: 28
-Scientists: 24
-Engineers: 21
-Score: 200
-------------------
-Budget: 2588,54314478745
-PrimaryProductionPool: 1549,8
-SecondaryProductionPool: 0
-PrimarySciencePool: 777,6
-SecondarySciencePool: 0
-Cargo: 0
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
-LastEvent: 2016-03-30 12:38:17 - ConstructedSecondEngineBooster
-Comment: 
-Month: 5
-GoalType: SmartCity
-Morale: 33
-Popularity: 38
-Scientists: 24
-Engineers: 21
-Score: 300
-------------------
-Budget: 2468,54314478745
-PrimaryProductionPool: 1549,8
-SecondaryProductionPool: 0
-PrimarySciencePool: 777,6
-SecondarySciencePool: 0
-Cargo: 0
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
-LastEvent: 2016-03-30 12:38:17 - ConstructedSecondEngineBooster
-Comment: 
-Month: 6
-GoalType: SmartCity
-Morale: 53
-Popularity: 43
-Scientists: 24
-Engineers: 21
-Score: 300
-------------------
-Budget: 2319,8976034461
-PrimaryProductionPool: 1742,58
-SecondaryProductionPool: 192,78
-PrimarySciencePool: 997,92
-SecondarySciencePool: 220,32
-Cargo: 64,26
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
-LastEvent: 2016-03-30 12:38:17 - CleanerFuelResearched
-Comment: 
-Month: 7
-GoalType: SmartCity
-Morale: 53
-Popularity: 43
-Scientists: 24
-Engineers: 21
-Score: 400
-------------------
-Budget: 2188,53265453993
-PrimaryProductionPool: 1742,58
-SecondaryProductionPool: 192,78
-PrimarySciencePool: 2099,52
-SecondarySciencePool: 220,32
-Cargo: 64,26
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
-LastEvent: 2016-03-30 12:38:17 - ResearchedLifeSupport
-Comment: 
-Month: 8
-GoalType: SmartCity
-Morale: 58
-Popularity: 48
-Scientists: 24
-Engineers: 21
-Score: 450
-------------------
-Budget: 2053,54396672852
-PrimaryProductionPool: 1742,58
-SecondaryProductionPool: 192,78
-PrimarySciencePool: 3237,12
-SecondarySciencePool: 220,32
-Cargo: 64,26
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
-LastEvent: 2016-03-30 12:38:17 - ResearchedCockpit
-Comment: 
-Month: 9
-GoalType: SmartCity
-Morale: 58
-Popularity: 53
-Scientists: 24
-Engineers: 21
-Score: 500
-------------------
-Budget: 1916,63930133061
-PrimaryProductionPool: 1742,58
-SecondaryProductionPool: 192,78
-PrimarySciencePool: 4374,72
-SecondarySciencePool: 220,32
-Cargo: 64,26
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
-LastEvent: 2016-03-30 12:38:17 - ScientificMogul
-Comment: 
-Month: 10
-GoalType: SmartCity
-Morale: 73
-Popularity: 73
-Scientists: 24
-Engineers: 21
-Score: 550
-------------------
-Budget: 1784,09712919458
-PrimaryProductionPool: 2832,48
-SecondaryProductionPool: 192,78
-PrimarySciencePool: 4374,72
-SecondarySciencePool: 220,32
-Cargo: 64,26
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
-LastEvent: 2016-03-30 12:38:17 - ConstructedCockpit
-Comment: 
-Month: 11
-GoalType: SmartCity
-Morale: 88
-Popularity: 88
-Scientists: 24
-Engineers: 21
-Score: 700
-------------------
-Budget: 1648,20621020776
-PrimaryProductionPool: 2832,48
-SecondaryProductionPool: 192,78
-PrimarySciencePool: 4374,72
-SecondarySciencePool: 1122,72
-Cargo: 64,26
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
-LastEvent: 2016-03-30 12:38:17 - MoreEfficientTransportationTakesWorldByStorm
-Comment: 
-Month: 12
-GoalType: SmartCity
-Morale: 88
-Popularity: 88
-Scientists: 24
-Engineers: 21
-Score: 940
-------------------
-Budget: 1509,79150809105
-PrimaryProductionPool: 2832,48
-SecondaryProductionPool: 982,38
-PrimarySciencePool: 4374,72
-SecondarySciencePool: 1122,72
-Cargo: 64,26
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
-LastEvent: 2016-03-30 12:38:17 - PrototypedASuperCell
-Comment: 
-Month: 13
-GoalType: SmartCity
-Morale: 88
-Popularity: 88
-Scientists: 24
-Engineers: 21
-Score: 1140
-------------------
-Budget: 1375,71165524223
-PrimaryProductionPool: 2832,48
-SecondaryProductionPool: 1771,98
-PrimarySciencePool: 4374,72
-SecondarySciencePool: 1122,72
-Cargo: 64,26
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
-LastEvent: 2016-03-30 12:38:17 - MakeSurveillanceSystem
-Comment: 
-Month: 14
-GoalType: SmartCity
-Morale: 63
-Popularity: 68
-Scientists: 24
-Engineers: 21
-Score: 1240
-------------------
-Budget: 1241,543502501
-PrimaryProductionPool: 2832,48
-SecondaryProductionPool: 2456,58
-PrimarySciencePool: 4374,72
-SecondarySciencePool: 1122,72
-Cargo: 64,26
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
-LastEvent: 2016-03-30 12:38:17 - ConstructDeepSleepChamber
-Comment: 
-Month: 15
-GoalType: SmartCity
-Morale: 58
-Popularity: 68
-Scientists: 24
-Engineers: 21
-Score: 1340
-------------------
-Budget: 1107,02956157132
-PrimaryProductionPool: 2832,48
-SecondaryProductionPool: 3120,18
-PrimarySciencePool: 4374,72
-SecondarySciencePool: 1122,72
-Cargo: 64,26
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
-LastEvent: 2016-03-30 12:38:17 - NeuroControl
-Comment: 
-Month: 16
-GoalType: SmartCity
-Morale: 53
-Popularity: 68
-Scientists: 24
-Engineers: 21
-Score: 1440
-------------------
-Budget: 973,209777424675
-PrimaryProductionPool: 2832,48
-SecondaryProductionPool: 3120,18
-PrimarySciencePool: 4374,72
-SecondarySciencePool: 1122,72
-Cargo: 706,86
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
-LastEvent: 2016-03-30 12:38:17 - NeuroControl
-Comment: 
-Month: 17
-GoalType: SmartCity
-Morale: 48
-Popularity: 68
-Scientists: 24
-Engineers: 21
-Score: 1440
-------------------
-Budget: 853,209777424675
-PrimaryProductionPool: 2832,48
-SecondaryProductionPool: 3120,18
-PrimarySciencePool: 4374,72
-SecondarySciencePool: 1122,72
-Cargo: 706,86
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
-LastEvent: 2016-03-30 12:38:17 - NeuroControl
-Comment: 
-Month: 18
-GoalType: SmartCity
-Morale: 68
-Popularity: 73
-Scientists: 24
-Engineers: 21
-Score: 1440
-------------------
-Budget: 689,631686117328
-PrimaryProductionPool: 3044,16
-SecondaryProductionPool: 3331,86
-PrimarySciencePool: 4616,64
-SecondarySciencePool: 1364,64
-Cargo: 777,42
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
-LastEvent: 2016-03-30 12:38:17 - NeuroControl
-Comment: 
-Month: 19
-GoalType: SmartCity
-Morale: 68
-Popularity: 73
-Scientists: 24
-Engineers: 21
-Score: 1440
-------------------
-Budget: 551,413674234139
-PrimaryProductionPool: 4102,56
-SecondaryProductionPool: 3331,86
-PrimarySciencePool: 4616,64
-SecondarySciencePool: 1364,64
-Cargo: 777,42
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
-LastEvent: 2016-03-30 12:38:17 - RocketAssembled
-Comment: 
-Month: 20
-GoalType: SmartCity
-Morale: 73
-Popularity: 78
-Scientists: 24
-Engineers: 21
-Score: 1490
-------------------
-Budget: 431,413674234139
-PrimaryProductionPool: 4102,56
-SecondaryProductionPool: 3331,86
-PrimarySciencePool: 4616,64
-SecondarySciencePool: 1364,64
-Cargo: 777,42
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
-LastEvent: 2016-03-30 12:38:17 - RocketLaunched
-Comment: 
-Month: 21
-GoalType: SmartCity
-Morale: 73
-Popularity: 78
-Scientists: 24
-Engineers: 21
-Score: 12282,42
-------------------
-Month: 1
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
 Popularity: 7
 Morale: 8
-Budget: 3133,85637814591
-Scientists: 4
+Budget: 3134,8651357367
 Engineers: 21
 PrimaryProductionPool: 0
 SecondaryProductionPool: 0
 PrimarySciencePool: 0
 SecondarySciencePool: 0
 Cargo: 0
-Comment: 
 GoalType: SmartCity
-LastEvent: 
+Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
+Comment: 
 Score: 0
+
 ------------------
 Month: 2
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
+LastEvent: 
 Popularity: 8
 Morale: 8
-Budget: 2995,73696212877
-Scientists: 24
+Budget: 2998,96801120321
 Engineers: 21
 PrimaryProductionPool: 0
 SecondaryProductionPool: 0
 PrimarySciencePool: 0
 SecondarySciencePool: 0
 Cargo: 0
-Comment: 
 GoalType: SmartCity
-LastEvent: 
+Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
+Comment: 
 Score: 0
+
 ------------------
 Month: 3
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
+LastEvent: 2016-03-30 17:54:42 - ResearchedEngineBooster
 Popularity: 18
 Morale: 18
-Budget: 2859,16512447603
-Scientists: 24
+Budget: 2867,58093408429
 Engineers: 21
 PrimaryProductionPool: 0
 SecondaryProductionPool: 0
 PrimarySciencePool: 777,6
 SecondarySciencePool: 0
 Cargo: 0
-Comment: 
 GoalType: SmartCity
-LastEvent: 2016-03-30 13:11:51 - ResearchedEngineBooster
+Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
+Comment: 
 Score: 100
+
 ------------------
 Month: 4
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
+LastEvent: 2016-03-30 17:54:42 - ConstructedEngine
 Popularity: 28
 Morale: 28
-Budget: 2723,14763167787
-Scientists: 24
+Budget: 2732,4501401081
 Engineers: 21
 PrimaryProductionPool: 743,4
 SecondaryProductionPool: 0
 PrimarySciencePool: 777,6
 SecondarySciencePool: 0
 Cargo: 0
-Comment: 
 GoalType: SmartCity
-LastEvent: 2016-03-30 13:11:51 - ConstructedEngine
+Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
+Comment: 
 Score: 200
+
 ------------------
 Month: 5
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
+LastEvent: 2016-03-30 17:54:42 - ConstructedSecondEngineBooster
 Popularity: 38
 Morale: 33
-Budget: 2592,64336848987
-Scientists: 24
+Budget: 2601,44687789793
 Engineers: 21
 PrimaryProductionPool: 1549,8
 SecondaryProductionPool: 0
 PrimarySciencePool: 777,6
 SecondarySciencePool: 0
 Cargo: 0
-Comment: 
 GoalType: SmartCity
-LastEvent: 2016-03-30 13:11:51 - ConstructedSecondEngineBooster
+Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
+Comment: 
 Score: 300
+
 ------------------
 Month: 6
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
+LastEvent: 2016-03-30 17:54:42 - ConstructedSecondEngineBooster
 Popularity: 43
 Morale: 53
-Budget: 2472,64336848987
-Scientists: 24
+Budget: 2481,44687789793
 Engineers: 21
 PrimaryProductionPool: 1549,8
 SecondaryProductionPool: 0
 PrimarySciencePool: 777,6
 SecondarySciencePool: 0
 Cargo: 0
-Comment: 
 GoalType: SmartCity
-LastEvent: 2016-03-30 13:11:51 - ConstructedSecondEngineBooster
+Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
+Comment: 
 Score: 300
+
 ------------------
 Month: 7
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
+LastEvent: 2016-03-30 17:54:42 - CleanerFuelResearched
 Popularity: 43
 Morale: 53
-Budget: 2320,58001844007
-Scientists: 24
+Budget: 2313,45904260336
 Engineers: 21
 PrimaryProductionPool: 1742,58
 SecondaryProductionPool: 192,78
 PrimarySciencePool: 997,92
 SecondarySciencePool: 220,32
 Cargo: 64,26
-Comment: 
 GoalType: SmartCity
-LastEvent: 2016-03-30 13:11:51 - CleanerFuelResearched
+Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
+Comment: 
 Score: 400
+
 ------------------
 Month: 8
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
+LastEvent: 2016-03-30 17:54:42 - ResearchedLifeSupport
 Popularity: 48
 Morale: 58
-Budget: 2195,35307878878
-Scientists: 24
+Budget: 2187,25766447245
 Engineers: 21
 PrimaryProductionPool: 1742,58
 SecondaryProductionPool: 192,78
 PrimarySciencePool: 2099,52
 SecondarySciencePool: 220,32
 Cargo: 64,26
-Comment: 
 GoalType: SmartCity
-LastEvent: 2016-03-30 13:11:51 - ResearchedLifeSupport
+Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
+Comment: 
 Score: 450
+
 ------------------
 Month: 9
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
+LastEvent: 2016-03-30 17:54:42 - ResearchedCockpit
 Popularity: 53
 Morale: 58
-Budget: 2067,80017997734
-Scientists: 24
+Budget: 2061,28638434982
 Engineers: 21
 PrimaryProductionPool: 1742,58
 SecondaryProductionPool: 192,78
 PrimarySciencePool: 3237,12
 SecondarySciencePool: 220,32
 Cargo: 64,26
-Comment: 
 GoalType: SmartCity
-LastEvent: 2016-03-30 13:11:51 - ResearchedCockpit
+Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
+Comment: 
 Score: 500
+
 ------------------
 Month: 10
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
+LastEvent: 2016-03-30 17:54:42 - ScientificMogul
 Popularity: 73
 Morale: 73
-Budget: 1928,17100119925
-Scientists: 24
+Budget: 1926,72363320446
 Engineers: 21
 PrimaryProductionPool: 1742,58
 SecondaryProductionPool: 192,78
 PrimarySciencePool: 4374,72
 SecondarySciencePool: 220,32
 Cargo: 64,26
-Comment: 
 GoalType: SmartCity
-LastEvent: 2016-03-30 13:11:51 - ScientificMogul
+Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
+Comment: 
 Score: 550
+
 ------------------
 Month: 11
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
+LastEvent: 2016-03-30 17:54:42 - ConstructedCockpit
 Popularity: 88
 Morale: 88
-Budget: 1795,7666506063
-Scientists: 24
+Budget: 1792,16445068697
 Engineers: 21
 PrimaryProductionPool: 2832,48
 SecondaryProductionPool: 192,78
 PrimarySciencePool: 4374,72
 SecondarySciencePool: 220,32
 Cargo: 64,26
-Comment: 
 GoalType: SmartCity
-LastEvent: 2016-03-30 13:11:51 - ConstructedCockpit
+Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
+Comment: 
 Score: 700
+
 ------------------
 Month: 12
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
+LastEvent: 2016-03-30 17:54:42 - MoreEfficientTransportationTakesWorldByStorm
 Popularity: 88
 Morale: 88
-Budget: 1665,51346607996
-Scientists: 24
+Budget: 1656,54101423991
 Engineers: 21
 PrimaryProductionPool: 2832,48
 SecondaryProductionPool: 192,78
 PrimarySciencePool: 4374,72
 SecondarySciencePool: 1122,72
 Cargo: 64,26
-Comment: 
 GoalType: SmartCity
-LastEvent: 2016-03-30 13:11:51 - MoreEfficientTransportationTakesWorldByStorm
+Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
+Comment: 
 Score: 940
+
 ------------------
 Month: 13
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
+LastEvent: 2016-03-30 17:54:42 - PrototypedASuperCell
 Popularity: 88
 Morale: 88
-Budget: 1529,68630846342
-Scientists: 24
+Budget: 1526,09399482193
 Engineers: 21
 PrimaryProductionPool: 2832,48
 SecondaryProductionPool: 982,38
 PrimarySciencePool: 4374,72
 SecondarySciencePool: 1122,72
 Cargo: 64,26
-Comment: 
 GoalType: SmartCity
-LastEvent: 2016-03-30 13:11:51 - PrototypedASuperCell
+Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
+Comment: 
 Score: 1140
+
 ------------------
 Month: 14
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
+LastEvent: 2016-03-30 17:54:42 - MakeSurveillanceSystem
 Popularity: 68
 Morale: 63
-Budget: 1404,03368924001
-Scientists: 24
+Budget: 1397,44740079504
 Engineers: 21
 PrimaryProductionPool: 2832,48
 SecondaryProductionPool: 1771,98
 PrimarySciencePool: 4374,72
 SecondarySciencePool: 1122,72
 Cargo: 64,26
-Comment: 
 GoalType: SmartCity
-LastEvent: 2016-03-30 13:11:51 - MakeSurveillanceSystem
+Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
+Comment: 
 Score: 1240
+
 ------------------
 Month: 15
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
+LastEvent: 2016-03-30 17:54:42 - ConstructDeepSleepChamber
 Popularity: 68
 Morale: 58
-Budget: 1264,22546414855
-Scientists: 24
+Budget: 1264,93312735806
 Engineers: 21
 PrimaryProductionPool: 2832,48
 SecondaryProductionPool: 2456,58
 PrimarySciencePool: 4374,72
 SecondarySciencePool: 1122,72
 Cargo: 64,26
-Comment: 
 GoalType: SmartCity
-LastEvent: 2016-03-30 13:11:51 - ConstructDeepSleepChamber
+Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
+Comment: 
 Score: 1340
+
 ------------------
 Month: 16
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
+LastEvent: 2016-03-30 17:54:42 - NeuroControl
 Popularity: 68
 Morale: 53
-Budget: 1124,48103695385
-Scientists: 24
+Budget: 1127,83042118318
 Engineers: 21
 PrimaryProductionPool: 2832,48
 SecondaryProductionPool: 3120,18
 PrimarySciencePool: 4374,72
 SecondarySciencePool: 1122,72
 Cargo: 64,26
-Comment: 
 GoalType: SmartCity
-LastEvent: 2016-03-30 13:11:51 - NeuroControl
+Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
+Comment: 
 Score: 1440
+
 ------------------
 Month: 17
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
+LastEvent: 2016-03-30 17:54:42 - NeuroControl
 Popularity: 68
 Morale: 48
-Budget: 987,282077538447
-Scientists: 24
+Budget: 996,371140259491
 Engineers: 21
 PrimaryProductionPool: 2832,48
 SecondaryProductionPool: 3120,18
 PrimarySciencePool: 4374,72
 SecondarySciencePool: 1122,72
 Cargo: 706,86
-Comment: 
 GoalType: SmartCity
-LastEvent: 2016-03-30 13:11:51 - NeuroControl
+Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
+Comment: 
 Score: 1440
+
 ------------------
 Month: 18
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
+LastEvent: 2016-03-30 17:54:42 - NeuroControl
 Popularity: 73
 Morale: 68
-Budget: 867,282077538447
-Scientists: 24
+Budget: 876,371140259491
 Engineers: 21
 PrimaryProductionPool: 2832,48
 SecondaryProductionPool: 3120,18
 PrimarySciencePool: 4374,72
 SecondarySciencePool: 1122,72
 Cargo: 706,86
-Comment: 
 GoalType: SmartCity
-LastEvent: 2016-03-30 13:11:51 - NeuroControl
+Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
+Comment: 
 Score: 1440
+
 ------------------
 Month: 19
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
+LastEvent: 2016-03-30 17:54:42 - NeuroControl
 Popularity: 73
 Morale: 68
-Budget: 701,527546393466
-Scientists: 24
+Budget: 732,647333118435
 Engineers: 21
 PrimaryProductionPool: 3044,16
 SecondaryProductionPool: 3331,86
 PrimarySciencePool: 4616,64
 SecondarySciencePool: 1364,64
 Cargo: 777,42
-Comment: 
 GoalType: SmartCity
-LastEvent: 2016-03-30 13:11:51 - NeuroControl
+Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
+Comment: 
 Score: 1440
+
 ------------------
 Month: 20
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
+LastEvent: 2016-03-30 17:54:42 - RocketAssembled
 Popularity: 78
 Morale: 73
-Budget: 567,666134376855
-Scientists: 24
+Budget: 595,790912283487
 Engineers: 21
 PrimaryProductionPool: 4102,56
 SecondaryProductionPool: 3331,86
 PrimarySciencePool: 4616,64
 SecondarySciencePool: 1364,64
 Cargo: 777,42
-Comment: 
 GoalType: SmartCity
-LastEvent: 2016-03-30 13:11:51 - RocketAssembled
+Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
+Comment: 
 Score: 1490
+
 ------------------
 Month: 21
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
+LastEvent: 2016-03-30 17:54:42 - RocketLaunched
 Popularity: 78
 Morale: 73
-Budget: 447,666134376855
-Scientists: 24
+Budget: 475,790912283487
 Engineers: 21
 PrimaryProductionPool: 4102,56
 SecondaryProductionPool: 3331,86
 PrimarySciencePool: 4616,64
 SecondarySciencePool: 1364,64
 Cargo: 777,42
-Comment: 
 GoalType: SmartCity
-LastEvent: 2016-03-30 13:11:51 - RocketLaunched
+Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
+Comment: 
 Score: 12282,42
-------------------
-Month: 1
-LastEvent: 
-Popularity: 7
-Morale: 8
-Budget: 3130,84118528098
-Scientists: 4
-Engineers: 21
-PrimaryProductionPool: 0
-SecondaryProductionPool: 0
-PrimarySciencePool: 0
-SecondarySciencePool: 0
-Cargo: 0
-Comment: 
-GoalType: SmartCity
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
-Score: 0
-------------------
-Month: 2
-LastEvent: 
-Popularity: 8
-Morale: 8
-Budget: 2995,92297516341
-Scientists: 24
-Engineers: 21
-PrimaryProductionPool: 0
-SecondaryProductionPool: 0
-PrimarySciencePool: 0
-SecondarySciencePool: 0
-Cargo: 0
-Comment: 
-GoalType: SmartCity
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
-Score: 0
-------------------
-Month: 3
-LastEvent: 2016-03-30 13:15:03 - ResearchedEngineBooster
-Popularity: 18
-Morale: 18
-Budget: 2864,2474990288
-Scientists: 24
-Engineers: 21
-PrimaryProductionPool: 0
-SecondaryProductionPool: 0
-PrimarySciencePool: 777,6
-SecondarySciencePool: 0
-Cargo: 0
-Comment: 
-GoalType: SmartCity
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
-Score: 100
-------------------
-Month: 4
-LastEvent: 2016-03-30 13:15:03 - ConstructedEngine
-Popularity: 28
-Morale: 28
-Budget: 2731,95415106926
-Scientists: 24
-Engineers: 21
-PrimaryProductionPool: 743,4
-SecondaryProductionPool: 0
-PrimarySciencePool: 777,6
-SecondarySciencePool: 0
-Cargo: 0
-Comment: 
-GoalType: SmartCity
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
-Score: 200
-------------------
-Month: 5
-LastEvent: 2016-03-30 13:15:03 - ConstructedSecondEngineBooster
-Popularity: 38
-Morale: 33
-Budget: 2601,06725658107
-Scientists: 24
-Engineers: 21
-PrimaryProductionPool: 1549,8
-SecondaryProductionPool: 0
-PrimarySciencePool: 777,6
-SecondarySciencePool: 0
-Cargo: 0
-Comment: 
-GoalType: SmartCity
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
-Score: 300
-------------------
-Month: 6
-LastEvent: 2016-03-30 13:15:03 - ConstructedSecondEngineBooster
-Popularity: 43
-Morale: 53
-Budget: 2481,06725658107
-Scientists: 24
-Engineers: 21
-PrimaryProductionPool: 1549,8
-SecondaryProductionPool: 0
-PrimarySciencePool: 777,6
-SecondarySciencePool: 0
-Cargo: 0
-Comment: 
-GoalType: SmartCity
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
-Score: 300
-------------------
-Month: 7
-LastEvent: 2016-03-30 13:15:03 - CleanerFuelResearched
-Popularity: 43
-Morale: 53
-Budget: 2317,10836209921
-Scientists: 24
-Engineers: 21
-PrimaryProductionPool: 1742,58
-SecondaryProductionPool: 192,78
-PrimarySciencePool: 997,92
-SecondarySciencePool: 220,32
-Cargo: 64,26
-Comment: 
-GoalType: SmartCity
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
-Score: 400
-------------------
-Month: 8
-LastEvent: 2016-03-30 13:15:03 - ResearchedLifeSupport
-Popularity: 48
-Morale: 58
-Budget: 2184,71112425658
-Scientists: 24
-Engineers: 21
-PrimaryProductionPool: 1742,58
-SecondaryProductionPool: 192,78
-PrimarySciencePool: 2099,52
-SecondarySciencePool: 220,32
-Cargo: 64,26
-Comment: 
-GoalType: SmartCity
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
-Score: 450
-------------------
-Month: 9
-LastEvent: 2016-03-30 13:15:03 - ResearchedCockpit
-Popularity: 53
-Morale: 58
-Budget: 2053,37432525045
-Scientists: 24
-Engineers: 21
-PrimaryProductionPool: 1742,58
-SecondaryProductionPool: 192,78
-PrimarySciencePool: 3237,12
-SecondarySciencePool: 220,32
-Cargo: 64,26
-Comment: 
-GoalType: SmartCity
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
-Score: 500
-------------------
-Month: 10
-LastEvent: 2016-03-30 13:15:03 - ScientificMogul
-Popularity: 73
-Morale: 73
-Budget: 1917,47502353623
-Scientists: 24
-Engineers: 21
-PrimaryProductionPool: 1742,58
-SecondaryProductionPool: 192,78
-PrimarySciencePool: 4374,72
-SecondarySciencePool: 220,32
-Cargo: 64,26
-Comment: 
-GoalType: SmartCity
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
-Score: 550
-------------------
-Month: 11
-LastEvent: 2016-03-30 13:15:03 - ConstructedCockpit
-Popularity: 88
-Morale: 88
-Budget: 1781,96337547477
-Scientists: 24
-Engineers: 21
-PrimaryProductionPool: 2832,48
-SecondaryProductionPool: 192,78
-PrimarySciencePool: 4374,72
-SecondarySciencePool: 220,32
-Cargo: 64,26
-Comment: 
-GoalType: SmartCity
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
-Score: 700
-------------------
-Month: 12
-LastEvent: 2016-03-30 13:15:03 - MoreEfficientTransportationTakesWorldByStorm
-Popularity: 88
-Morale: 88
-Budget: 1646,97342778182
-Scientists: 24
-Engineers: 21
-PrimaryProductionPool: 2832,48
-SecondaryProductionPool: 192,78
-PrimarySciencePool: 4374,72
-SecondarySciencePool: 1122,72
-Cargo: 64,26
-Comment: 
-GoalType: SmartCity
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
-Score: 940
-------------------
-Month: 13
-LastEvent: 2016-03-30 13:15:03 - PrototypedASuperCell
-Popularity: 88
-Morale: 88
-Budget: 1514,32583644489
-Scientists: 24
-Engineers: 21
-PrimaryProductionPool: 2832,48
-SecondaryProductionPool: 982,38
-PrimarySciencePool: 4374,72
-SecondarySciencePool: 1122,72
-Cargo: 64,26
-Comment: 
-GoalType: SmartCity
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
-Score: 1140
-------------------
-Month: 14
-LastEvent: 2016-03-30 13:15:03 - MakeSurveillanceSystem
-Popularity: 68
-Morale: 63
-Budget: 1382,63238856692
-Scientists: 24
-Engineers: 21
-PrimaryProductionPool: 2832,48
-SecondaryProductionPool: 1771,98
-PrimarySciencePool: 4374,72
-SecondarySciencePool: 1122,72
-Cargo: 64,26
-Comment: 
-GoalType: SmartCity
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
-Score: 1240
-------------------
-Month: 15
-LastEvent: 2016-03-30 13:15:03 - ConstructDeepSleepChamber
-Popularity: 68
-Morale: 58
-Budget: 1245,94802863707
-Scientists: 24
-Engineers: 21
-PrimaryProductionPool: 2832,48
-SecondaryProductionPool: 2456,58
-PrimarySciencePool: 4374,72
-SecondarySciencePool: 1122,72
-Cargo: 64,26
-Comment: 
-GoalType: SmartCity
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
-Score: 1340
-------------------
-Month: 16
-LastEvent: 2016-03-30 13:15:03 - NeuroControl
-Popularity: 68
-Morale: 53
-Budget: 1112,21691199682
-Scientists: 24
-Engineers: 21
-PrimaryProductionPool: 2832,48
-SecondaryProductionPool: 3120,18
-PrimarySciencePool: 4374,72
-SecondarySciencePool: 1122,72
-Cargo: 64,26
-Comment: 
-GoalType: SmartCity
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
-Score: 1440
-------------------
-Month: 17
-LastEvent: 2016-03-30 13:15:03 - NeuroControl
-Popularity: 68
-Morale: 48
-Budget: 974,820412534671
-Scientists: 24
-Engineers: 21
-PrimaryProductionPool: 2832,48
-SecondaryProductionPool: 3120,18
-PrimarySciencePool: 4374,72
-SecondarySciencePool: 1122,72
-Cargo: 706,86
-Comment: 
-GoalType: SmartCity
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
-Score: 1440
-------------------
-Month: 18
-LastEvent: 2016-03-30 13:15:03 - NeuroControl
-Popularity: 73
-Morale: 68
-Budget: 854,820412534671
-Scientists: 24
-Engineers: 21
-PrimaryProductionPool: 2832,48
-SecondaryProductionPool: 3120,18
-PrimarySciencePool: 4374,72
-SecondarySciencePool: 1122,72
-Cargo: 706,86
-Comment: 
-GoalType: SmartCity
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
-Score: 1440
-------------------
-Month: 19
-LastEvent: 2016-03-30 13:15:03 - NeuroControl
-Popularity: 73
-Morale: 68
-Budget: 712,594211964214
-Scientists: 24
-Engineers: 21
-PrimaryProductionPool: 3044,16
-SecondaryProductionPool: 3331,86
-PrimarySciencePool: 4616,64
-SecondarySciencePool: 1364,64
-Cargo: 777,42
-Comment: 
-GoalType: SmartCity
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
-Score: 1440
-------------------
-Month: 20
-LastEvent: 2016-03-30 13:15:03 - RocketAssembled
-Popularity: 78
-Morale: 73
-Budget: 579,224748122145
-Scientists: 24
-Engineers: 21
-PrimaryProductionPool: 4102,56
-SecondaryProductionPool: 3331,86
-PrimarySciencePool: 4616,64
-SecondarySciencePool: 1364,64
-Cargo: 777,42
-Comment: 
-GoalType: SmartCity
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
-Score: 1490
-------------------
-Month: 21
-LastEvent: 2016-03-30 13:15:03 - RocketLaunched
-Popularity: 78
-Morale: 73
-Budget: 459,224748122145
-Scientists: 24
-Engineers: 21
-PrimaryProductionPool: 4102,56
-SecondaryProductionPool: 3331,86
-PrimarySciencePool: 4616,64
-SecondarySciencePool: 1364,64
-Cargo: 777,42
-Comment: 
-GoalType: SmartCity
-Events: System.Collections.Generic.List`1[WPFP.CommunicationLayer.DTO.EventInformation]
-Score: 12282,42
+
 ------------------

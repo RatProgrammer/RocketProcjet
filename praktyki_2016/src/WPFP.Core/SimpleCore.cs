@@ -44,7 +44,7 @@ namespace WPFP.Core
                 PerformActionOnSubject(line);
 
                 ReportInfo fullReportInfo = _simulationSubject.GetCurrentStateOfSimulation();
-                string[] report =Parser.ParsedLogs(fullReportInfo);
+                string report =Parser.ParsedLogs(fullReportInfo);
                 Logger.Logging(report);
             }
 

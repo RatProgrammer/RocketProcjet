@@ -12,14 +12,10 @@ namespace WPFP.Core.FileStuff
     {
         private static readonly string _fileName = @"logs.txt";
 
-        public static void Logging(string [] logs)
+        public static void Logging(string logs)
         {
             StreamWriter streamWriter=new StreamWriter(_fileName, true);
-            foreach (var log in logs)
-            {
-                streamWriter.WriteLine(log);
-            }
-            
+            streamWriter.WriteLine(logs);
             streamWriter.WriteLine("------------------");
             streamWriter.Close();
         }
