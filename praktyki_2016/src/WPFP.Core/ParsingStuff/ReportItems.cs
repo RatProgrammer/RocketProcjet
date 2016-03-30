@@ -15,7 +15,6 @@ namespace WPFP.Core.ParsingStuff
         SecondarySciencePool,
         Cargo,
         GoalType,
-        Events,
         Comment,
         Score
     }

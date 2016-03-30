@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
+using System.Runtime.Remoting.Metadata.W3cXsd2001;
+using System.Xml;
 using WPFP.CommunicationLayer.DTO;
 
 namespace WPFP.Core.ParsingStuff
@@ -11,11 +13,16 @@ namespace WPFP.Core.ParsingStuff
         public static string ParsedLogs(ReportInfo fullReportInfo)
         {
 
+            var parameters = GetParametersFromReportInfo(fullReportInfo);
+            return $"{ParseToString(parameters)}{Environment.NewLine}{GetEvents(fullReportInfo)}";
+        }
+
+        private static Dictionary<string, string> GetParametersFromReportInfo(ReportInfo fullReportInfo)
+        {
             Dictionary<string, string> parameters = fullReportInfo.GetType()
                 .GetProperties(BindingFlags.Instance | BindingFlags.Public)
                 .ToDictionary(prop => $"{prop.Name}", prop => $"{prop.GetValue(fullReportInfo, null)}");
-            //Dictionary<string, string> dString = parameters.ToDictionary(k => k.Key, k => $"{k.Value}");
-            return ParseToString(parameters);
+            return parameters;
         }
 
         private static string ParseToString(Dictionary<string, string> dictionary)
@@ -38,6 +45,12 @@ namespace WPFP.Core.ParsingStuff
         private static string RenameTurnToMonth(string blockReport)
         {
             return blockReport.Replace("Turn", "Month");
+        }
+
+        private static string GetEvents(ReportInfo reportInfo)
+        {
+            var listEvents = reportInfo.Events;
+            return $"Events: {listEvents.Aggregate(string.Empty, (current, item) => current + $@"{Environment.NewLine}{item.EventType}")}";
         }
     }
 }

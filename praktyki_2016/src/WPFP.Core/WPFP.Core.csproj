@@ -56,6 +56,7 @@
     <Compile Include="FileStuff\FileLoader.cs" />
     <Compile Include="FileStuff\Logger.cs" />
     <Compile Include="ParsingStuff\Parser.cs" />
+    <Compile Include="ParsingStuff\Report.cs" />
     <Compile Include="ParsingStuff\ReportItems.cs" />
     <Compile Include="SimpleCore.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
