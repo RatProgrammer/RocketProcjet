@@ -25,7 +25,8 @@ namespace WPFP.Core
 
         public void DisplayStartInfo()
         {
-            string formattedStateResponse = _simulationSubject.CurrentTurnReport();
+            ReportInfo fullReportInfo = _simulationSubject.GetCurrentStateOfSimulation();
+            string formattedStateResponse = FormatStateResponse(fullReportInfo);
             Form.DisplayOnUi(formattedStateResponse);
         }
 
@@ -44,7 +45,7 @@ namespace WPFP.Core
                 PerformActionOnSubject(line);
 
                 ReportInfo fullReportInfo = _simulationSubject.GetCurrentStateOfSimulation();
-                string report =Parser.ParsedLogs(fullReportInfo);
+                string report =Parser.ParseToString(fullReportInfo);
                 Logger.Logging(report);
             }
 
@@ -57,13 +58,21 @@ namespace WPFP.Core
             try
             { 
                 _simulationSubject.PerformAction(line);
-                string formattedStateResponse = _simulationSubject.CurrentTurnReport();
+                ReportInfo fullReportInfo = _simulationSubject.GetCurrentStateOfSimulation();
+                var formattedStateResponse = FormatStateResponse(fullReportInfo);
                 Form.DisplayOnUi(formattedStateResponse);
             }
             catch (InvalidOperationException)
             {
                 Form.DisplayOnUi(string.Format("Error in line:\" {0}\". Operation is not supported.", line));
             }
+        }
+
+        private string FormatStateResponse(ReportInfo fullReportInfo)
+        {
+            string report = Parser.ParseToString(fullReportInfo);
+            string formattedStateResponse = $"{Environment.NewLine} {report} {Environment.NewLine}";
+            return formattedStateResponse;
         }
     }
 }

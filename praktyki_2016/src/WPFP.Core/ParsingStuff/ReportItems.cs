@@ -7,7 +7,7 @@ namespace WPFP.Core.ParsingStuff
         Popularity,
         Morale,
         Budget,
-        Scientist,
+        Scientists,
         Engineers,
         PrimaryProductionPool,
         SecondaryProductionPool,
@@ -16,6 +16,7 @@ namespace WPFP.Core.ParsingStuff
         Cargo,
         GoalType,
         Comment,
-        Score
+        Score,
+        Events
     }
 }
