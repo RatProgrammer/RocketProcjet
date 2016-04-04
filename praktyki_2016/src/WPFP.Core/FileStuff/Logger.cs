@@ -14,7 +14,7 @@ namespace WPFP.Core.FileStuff
 
         public static void Logging(string logs)
         {
-            StreamWriter streamWriter=new StreamWriter(_fileName, true);
+            StreamWriter streamWriter=new StreamWriter(_fileName, false);
             streamWriter.WriteLine(logs);
             streamWriter.WriteLine("------------------");
             streamWriter.Close();

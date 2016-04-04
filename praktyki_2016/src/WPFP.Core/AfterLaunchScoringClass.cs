@@ -1,5 +1,6 @@
 ﻿using WPFP.CommunicationLayer.Enums;
 using WPFP.CommunicationLayer.Interfaces;
+using WPFP.Core.ScoringItems;
 using WPFP.Psyche;
 using WPFP.Psyche.StateMachine;
 using WPFP.SimConfiguration.Dependency;
@@ -22,6 +23,13 @@ namespace WPFP.Core
             HealthCareAchivment(goalType);
             ResearchedCocpitAchivment();
             RocetAssembledAchivment();
+            ScoringReader scoringReader=new ScoringReader();
+            ScoringContainer scoringContainer = scoringReader.ReadParameters();
+            double budget = scoringContainer.Budget;
+            double scientist = scoringContainer.Scientists;
+            double engineers = scoringContainer.Engineers;
+            double popularity = scoringContainer.Popularity;
+
 
         }
 
