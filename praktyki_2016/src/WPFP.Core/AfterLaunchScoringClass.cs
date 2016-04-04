@@ -1,4 +1,5 @@
-﻿using WPFP.CommunicationLayer.Enums;
+﻿using System;
+using WPFP.CommunicationLayer.Enums;
 using WPFP.CommunicationLayer.Interfaces;
 using WPFP.Core.ScoringItems;
 using WPFP.Psyche;
@@ -19,18 +20,33 @@ namespace WPFP.Core
         public void Launch()
         {
             GoalType goalType = _scoringMechanism.GoalType();
-            SmartCityAchivment(goalType);
-            HealthCareAchivment(goalType);
+            GoalTypeAchivment(goalType);
             ResearchedCocpitAchivment();
             RocetAssembledAchivment();
-            ScoringReader scoringReader=new ScoringReader();
+            CheckingParameters();
+        }
+
+        public void CheckingParameters()
+        {
+            ScoringReader scoringReader = new ScoringReader();
             ScoringContainer scoringContainer = scoringReader.ReadParameters();
             double budget = scoringContainer.Budget;
             double scientist = scoringContainer.Scientists;
             double engineers = scoringContainer.Engineers;
             double popularity = scoringContainer.Popularity;
 
-
+            if(budget<1000)
+                _scoringMechanism.Increase(1000);
+            if(budget<250)
+                _scoringMechanism.Increase(250);
+            if(budget<50)
+                _scoringMechanism.Increase(250);
+            if(popularity>50)
+                _scoringMechanism.Increase(500);
+            if(budget<500 && (engineers+scientist)<40)
+                _scoringMechanism.Increase(500);
+            if((engineers+scientist)<20)
+                _scoringMechanism.Increase(500);
         }
 
         private void RocetAssembledAchivment()
@@ -51,27 +67,41 @@ namespace WPFP.Core
 
         private void SmartCityAchivment(GoalType goalType)
         {
-            if (goalType == GoalType.SmartCity)
+            if (_scoringMechanism.WasEventPublished(EventType.UniversalBatteryResearched.ToString()) ||
+                _scoringMechanism.WasEventPublished(EventType.MoreEfficientTransportationTakesWorldByStorm.ToString()))
             {
-                if (_scoringMechanism.WasEventPublished(EventType.UniversalBatteryResearched.ToString()) ||
-                    _scoringMechanism.WasEventPublished(EventType.MoreEfficientTransportationTakesWorldByStorm.ToString()))
-                {
-                    _scoringMechanism.Increase(1000);
-                }
+                _scoringMechanism.Increase(1000);
             }
         }
 
         private void HealthCareAchivment(GoalType goalType)
         {
-            if (goalType == GoalType.Healthcare)
+
+            if (_scoringMechanism.WasEventPublished(EventType.CleanerFuelResearched.ToString()) ||
+                _scoringMechanism.WasEventPublished(EventType.SafeStimulantsSold.ToString()))
             {
-                if (_scoringMechanism.WasEventPublished(EventType.CleanerFuelResearched.ToString()) ||
-                    _scoringMechanism.WasEventPublished(EventType.SafeStimulantsSold.ToString()))
-                {
-                    _scoringMechanism.Increase(1000);
-                }
+                _scoringMechanism.Increase(1000);
+
+            }
+        }
+
+        private void GoalTypeAchivment(GoalType goalType)
+        {
+            switch (goalType)
+            {
+                case GoalType.SmartCity:
+                    SmartCityAchivment(goalType);
+                    break;
+                case GoalType.Healthcare:
+                    HealthCareAchivment(goalType);
+                    break;
+                case GoalType.All:
+                    SmartCityAchivment(goalType);
+                    HealthCareAchivment(goalType);
+                    break;
+                default:
+                    throw new ArgumentOutOfRangeException(nameof(goalType), goalType, null);
             }
         }
     }
-    
 }
