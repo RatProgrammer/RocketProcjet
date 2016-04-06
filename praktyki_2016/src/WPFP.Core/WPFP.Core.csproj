@@ -52,7 +52,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AfterLaunchScoringClass.cs" />
+    <Compile Include="ParsingStuff\AfterLaunchScoringClass.cs" />
     <Compile Include="FileStuff\FileLoader.cs" />
     <Compile Include="FileStuff\Logger.cs" />
     <Compile Include="ParsingStuff\Parser.cs" />
