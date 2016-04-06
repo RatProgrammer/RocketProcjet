@@ -4,7 +4,9 @@ using WPFP.CommunicationLayer.DTO;
 using WPFP.CommunicationLayer.Interfaces;
 using WPFP.Core.FileStuff;
 using WPFP.Core.ParsingStuff;
+using WPFP.Core.ScoringItems;
 using WPFP.Psyche;
+using WPFP.Psyche.StateMachine;
 using WPFP.SimConfiguration.Dependency;
 
 namespace WPFP.Core
@@ -40,17 +42,26 @@ namespace WPFP.Core
             // To do 1: Read From File.
             string [] actions= FileLoader.LoadFileActions(fileName);
             IEnumerable<string> fileLines = actions;
+            string report=string.Empty;
+            ScoringWriter scoringWriter=new ScoringWriter();
             foreach (var line in fileLines)
             {
                 PerformActionOnSubject(line);
 
                 ReportInfo fullReportInfo = _simulationSubject.GetCurrentStateOfSimulation();
-                string report =Parser.ParseToString(fullReportInfo);
-                Logger.Logging(report);
-            }
+                scoringWriter.WriteParameters(fullReportInfo);
+                report += PrepareReport(fullReportInfo);
 
+            }
+            Logger.Logging(report);
             // To do 2: Save formated information to file.
 
+        }
+
+        private static string PrepareReport(ReportInfo fullReportInfo)
+        {
+            string separator = "----------------------";
+            return string.Format("{0} {1} {2} {3}", Parser.ParseToString(fullReportInfo), Environment.NewLine , separator, Environment.NewLine);
         }
 
         private void PerformActionOnSubject(string line)
