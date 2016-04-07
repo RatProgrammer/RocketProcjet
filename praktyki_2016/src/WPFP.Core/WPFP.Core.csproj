@@ -58,6 +58,7 @@
     <Compile Include="ParsingStuff\Parser.cs" />
     <Compile Include="ParsingStuff\Report.cs" />
     <Compile Include="ParsingStuff\ReportItems.cs" />
+    <Compile Include="PermutationStuff\Permutation.cs" />
     <Compile Include="ScoringItems\ScoringContainer.cs" />
     <Compile Include="ScoringItems\ScoringReader.cs" />
     <Compile Include="ScoringItems\ScoringWriter.cs" />
