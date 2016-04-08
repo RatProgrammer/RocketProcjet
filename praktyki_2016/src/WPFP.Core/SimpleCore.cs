@@ -4,6 +4,7 @@ using WPFP.CommunicationLayer.DTO;
 using WPFP.CommunicationLayer.Interfaces;
 using WPFP.Core.FileStuff;
 using WPFP.Core.ParsingStuff;
+using WPFP.Core.PermutationStuff;
 using WPFP.Core.ScoringItems;
 using WPFP.Psyche;
 using WPFP.Psyche.StateMachine;
@@ -40,6 +41,8 @@ namespace WPFP.Core
         public void PerformMacroFromFile(string fileName)
         {
             // To do 1: Read From File.
+            Permutation.GetCombination();
+
             string [] actions= FileLoader.LoadFileActions(fileName);
             IEnumerable<string> fileLines = actions;
             string report=string.Empty;

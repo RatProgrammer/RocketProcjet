@@ -24,8 +24,9 @@ namespace WPFP.SimpleUI
 
         private void btnLoadFile_Click(object sender, EventArgs e)
         {
-            
+
             string fileName = @"actionsMacro.txt";
+            //string fileName = @"combination.txt";
             _simpleCore.PerformMacroFromFile(fileName);
         }
 

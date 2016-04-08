@@ -5,13 +5,11 @@ focus_production primary 15
 focus_production primary 15
 slower_time 15
 perform_work 15
-focus_science primary 15
-focus_science primary 15
-focus_science primary 15
+focus_science primary 20
+focus_science primary 20
 focus_production primary 15
 focus_science secondary 15
-focus_production secondary 10
-focus_production secondary 10
+focus_production secondary 15
 focus_production cargo 10
 focus_production secondary 20
 focus_production cargo 20
@@ -21,3 +19,4 @@ fire_people engineer 5
 hire_people scientist 5
 focus_production primary 15
 launch_rocket_to_mars
+
