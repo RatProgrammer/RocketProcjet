@@ -1,7 +1,7 @@
 Month: 1
 Popularity: 7
 Morale: 8
-Budget: 3129,21422964158
+Budget: 3131,62116781185
 Scientists: 4
 Engineers: 21
 PrimaryProductionPool: 0
@@ -17,7 +17,7 @@ Score: 0
 Month: 2
 Popularity: 8
 Morale: 8
-Budget: 2993,62556125905
+Budget: 2996,93392941818
 Scientists: 24
 Engineers: 21
 PrimaryProductionPool: 0
@@ -31,10 +31,10 @@ Score: 0
  
  ---------------------- 
 Month: 3
-LastEvent: 2016-04-07 18:58:09 - ResearchedEngineBooster
+LastEvent: 2016-04-08 14:07:39 - ResearchedEngineBooster
 Popularity: 18
 Morale: 18
-Budget: 2860,39351295
+Budget: 2862,66382419395
 Scientists: 24
 Engineers: 21
 PrimaryProductionPool: 0
@@ -45,15 +45,15 @@ Cargo: 0
 GoalType: SmartCity
 Comment: 
 Score: 100
-Events: 2016-04-07 18:58:09 - ResearchedEngine
-Events: 2016-04-07 18:58:09 - ResearchedEngineBooster
+Events: 2016-04-08 14:07:39 - ResearchedEngine
+Events: 2016-04-08 14:07:39 - ResearchedEngineBooster
  
  ---------------------- 
 Month: 4
-LastEvent: 2016-04-07 18:58:09 - ConstructedEngine
+LastEvent: 2016-04-08 14:07:39 - ConstructedEngine
 Popularity: 28
 Morale: 28
-Budget: 2726,55741178503
+Budget: 2723,528445218
 Scientists: 24
 Engineers: 21
 PrimaryProductionPool: 743,4
@@ -64,17 +64,17 @@ Cargo: 0
 GoalType: SmartCity
 Comment: 
 Score: 200
-Events: 2016-04-07 18:58:09 - ResearchedEngine
-Events: 2016-04-07 18:58:09 - ResearchedEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedFirstEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedEngine
+Events: 2016-04-08 14:07:39 - ResearchedEngine
+Events: 2016-04-08 14:07:39 - ResearchedEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedFirstEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedEngine
  
  ---------------------- 
 Month: 5
-LastEvent: 2016-04-07 18:58:09 - ConstructedSecondEngineBooster
+LastEvent: 2016-04-08 14:07:39 - ConstructedSecondEngineBooster
 Popularity: 38
 Morale: 33
-Budget: 2588,08376192259
+Budget: 2591,25121207268
 Scientists: 24
 Engineers: 21
 PrimaryProductionPool: 1549,8
@@ -85,19 +85,19 @@ Cargo: 0
 GoalType: SmartCity
 Comment: 
 Score: 300
-Events: 2016-04-07 18:58:09 - ResearchedEngine
-Events: 2016-04-07 18:58:09 - ResearchedEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedFirstEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedEngine
-Events: 2016-04-07 18:58:09 - ConstructedThirdEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedSecondEngineBooster
+Events: 2016-04-08 14:07:39 - ResearchedEngine
+Events: 2016-04-08 14:07:39 - ResearchedEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedFirstEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedEngine
+Events: 2016-04-08 14:07:39 - ConstructedThirdEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedSecondEngineBooster
  
  ---------------------- 
 Month: 6
-LastEvent: 2016-04-07 18:58:09 - ConstructedSecondEngineBooster
+LastEvent: 2016-04-08 14:07:39 - ConstructedSecondEngineBooster
 Popularity: 43
 Morale: 53
-Budget: 2468,08376192259
+Budget: 2471,25121207268
 Scientists: 24
 Engineers: 21
 PrimaryProductionPool: 1549,8
@@ -108,19 +108,19 @@ Cargo: 0
 GoalType: SmartCity
 Comment: 
 Score: 300
-Events: 2016-04-07 18:58:09 - ResearchedEngine
-Events: 2016-04-07 18:58:09 - ResearchedEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedFirstEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedEngine
-Events: 2016-04-07 18:58:09 - ConstructedThirdEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedSecondEngineBooster
+Events: 2016-04-08 14:07:39 - ResearchedEngine
+Events: 2016-04-08 14:07:39 - ResearchedEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedFirstEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedEngine
+Events: 2016-04-08 14:07:39 - ConstructedThirdEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedSecondEngineBooster
  
  ---------------------- 
 Month: 7
-LastEvent: 2016-04-07 18:58:09 - ConstructedSecondEngineBooster
+LastEvent: 2016-04-08 14:07:39 - ConstructedSecondEngineBooster
 Popularity: 43
 Morale: 53
-Budget: 2319,6135642401
+Budget: 2317,40355323646
 Scientists: 24
 Engineers: 21
 PrimaryProductionPool: 1694,385
@@ -131,19 +131,19 @@ Cargo: 48,195
 GoalType: SmartCity
 Comment: 
 Score: 300
-Events: 2016-04-07 18:58:09 - ResearchedEngine
-Events: 2016-04-07 18:58:09 - ResearchedEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedFirstEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedEngine
-Events: 2016-04-07 18:58:09 - ConstructedThirdEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedSecondEngineBooster
+Events: 2016-04-08 14:07:39 - ResearchedEngine
+Events: 2016-04-08 14:07:39 - ResearchedEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedFirstEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedEngine
+Events: 2016-04-08 14:07:39 - ConstructedThirdEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedSecondEngineBooster
  
  ---------------------- 
 Month: 8
-LastEvent: 2016-04-07 18:58:09 - ResearchedLifeSupport
+LastEvent: 2016-04-08 14:07:39 - ResearchedLifeSupport
 Popularity: 48
 Morale: 58
-Budget: 2184,68941099229
+Budget: 2188,88104451302
 Scientists: 24
 Engineers: 21
 PrimaryProductionPool: 1694,385
@@ -154,20 +154,20 @@ Cargo: 48,195
 GoalType: SmartCity
 Comment: 
 Score: 350
-Events: 2016-04-07 18:58:09 - ResearchedEngine
-Events: 2016-04-07 18:58:09 - ResearchedEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedFirstEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedEngine
-Events: 2016-04-07 18:58:09 - ConstructedThirdEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedSecondEngineBooster
-Events: 2016-04-07 18:58:09 - ResearchedLifeSupport
+Events: 2016-04-08 14:07:39 - ResearchedEngine
+Events: 2016-04-08 14:07:39 - ResearchedEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedFirstEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedEngine
+Events: 2016-04-08 14:07:39 - ConstructedThirdEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedSecondEngineBooster
+Events: 2016-04-08 14:07:39 - ResearchedLifeSupport
  
  ---------------------- 
 Month: 9
-LastEvent: 2016-04-07 18:58:09 - ResearchedCockpit
+LastEvent: 2016-04-08 14:07:39 - ResearchedCockpit
 Popularity: 53
 Morale: 58
-Budget: 2055,87733732112
+Budget: 2057,45019734951
 Scientists: 24
 Engineers: 21
 PrimaryProductionPool: 1694,385
@@ -178,21 +178,21 @@ Cargo: 48,195
 GoalType: SmartCity
 Comment: 
 Score: 400
-Events: 2016-04-07 18:58:09 - ResearchedEngine
-Events: 2016-04-07 18:58:09 - ResearchedEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedFirstEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedEngine
-Events: 2016-04-07 18:58:09 - ConstructedThirdEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedSecondEngineBooster
-Events: 2016-04-07 18:58:09 - ResearchedLifeSupport
-Events: 2016-04-07 18:58:09 - ResearchedCockpit
+Events: 2016-04-08 14:07:39 - ResearchedEngine
+Events: 2016-04-08 14:07:39 - ResearchedEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedFirstEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedEngine
+Events: 2016-04-08 14:07:39 - ConstructedThirdEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedSecondEngineBooster
+Events: 2016-04-08 14:07:39 - ResearchedLifeSupport
+Events: 2016-04-08 14:07:39 - ResearchedCockpit
  
  ---------------------- 
 Month: 10
-LastEvent: 2016-04-07 18:58:09 - ScientificMogul
+LastEvent: 2016-04-08 14:07:39 - ScientificMogul
 Popularity: 73
 Morale: 73
-Budget: 1919,38500804099
+Budget: 1920,12088854104
 Scientists: 24
 Engineers: 21
 PrimaryProductionPool: 1694,385
@@ -203,22 +203,22 @@ Cargo: 48,195
 GoalType: SmartCity
 Comment: 
 Score: 450
-Events: 2016-04-07 18:58:09 - ResearchedEngine
-Events: 2016-04-07 18:58:09 - ResearchedEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedFirstEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedEngine
-Events: 2016-04-07 18:58:09 - ConstructedThirdEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedSecondEngineBooster
-Events: 2016-04-07 18:58:09 - ResearchedLifeSupport
-Events: 2016-04-07 18:58:09 - ResearchedCockpit
-Events: 2016-04-07 18:58:09 - ScientificMogul
+Events: 2016-04-08 14:07:39 - ResearchedEngine
+Events: 2016-04-08 14:07:39 - ResearchedEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedFirstEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedEngine
+Events: 2016-04-08 14:07:39 - ConstructedThirdEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedSecondEngineBooster
+Events: 2016-04-08 14:07:39 - ResearchedLifeSupport
+Events: 2016-04-08 14:07:39 - ResearchedCockpit
+Events: 2016-04-08 14:07:39 - ScientificMogul
  
  ---------------------- 
 Month: 11
-LastEvent: 2016-04-07 18:58:09 - ConstructedCockpit
+LastEvent: 2016-04-08 14:07:39 - ConstructedCockpit
 Popularity: 88
 Morale: 88
-Budget: 1787,39167756978
+Budget: 1781,27446857107
 Scientists: 24
 Engineers: 21
 PrimaryProductionPool: 2784,285
@@ -229,25 +229,25 @@ Cargo: 48,195
 GoalType: SmartCity
 Comment: 
 Score: 600
-Events: 2016-04-07 18:58:09 - ResearchedEngine
-Events: 2016-04-07 18:58:09 - ResearchedEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedFirstEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedEngine
-Events: 2016-04-07 18:58:09 - ConstructedThirdEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedSecondEngineBooster
-Events: 2016-04-07 18:58:09 - ResearchedLifeSupport
-Events: 2016-04-07 18:58:09 - ResearchedCockpit
-Events: 2016-04-07 18:58:09 - ScientificMogul
-Events: 2016-04-07 18:58:09 - ConstructedSecondLifeSupport
-Events: 2016-04-07 18:58:09 - ConstructedFirstLifeSupport
-Events: 2016-04-07 18:58:09 - ConstructedCockpit
+Events: 2016-04-08 14:07:39 - ResearchedEngine
+Events: 2016-04-08 14:07:39 - ResearchedEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedFirstEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedEngine
+Events: 2016-04-08 14:07:39 - ConstructedThirdEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedSecondEngineBooster
+Events: 2016-04-08 14:07:39 - ResearchedLifeSupport
+Events: 2016-04-08 14:07:39 - ResearchedCockpit
+Events: 2016-04-08 14:07:39 - ScientificMogul
+Events: 2016-04-08 14:07:39 - ConstructedSecondLifeSupport
+Events: 2016-04-08 14:07:39 - ConstructedFirstLifeSupport
+Events: 2016-04-08 14:07:39 - ConstructedCockpit
  
  ---------------------- 
 Month: 12
-LastEvent: 2016-04-07 18:58:09 - CleanerFuelResearched
+LastEvent: 2016-04-08 14:07:39 - CleanerFuelResearched
 Popularity: 88
 Morale: 88
-Budget: 1647,76949686593
+Budget: 1644,62071866245
 Scientists: 24
 Engineers: 21
 PrimaryProductionPool: 2784,285
@@ -258,30 +258,30 @@ Cargo: 48,195
 GoalType: SmartCity
 Comment: 
 Score: 940
-Events: 2016-04-07 18:58:09 - ResearchedEngine
-Events: 2016-04-07 18:58:09 - ResearchedEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedFirstEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedEngine
-Events: 2016-04-07 18:58:09 - ConstructedThirdEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedSecondEngineBooster
-Events: 2016-04-07 18:58:09 - ResearchedLifeSupport
-Events: 2016-04-07 18:58:09 - ResearchedCockpit
-Events: 2016-04-07 18:58:09 - ScientificMogul
-Events: 2016-04-07 18:58:09 - ConstructedSecondLifeSupport
-Events: 2016-04-07 18:58:09 - ConstructedFirstLifeSupport
-Events: 2016-04-07 18:58:09 - ConstructedCockpit
-Events: 2016-04-07 18:58:09 - UniversalBatteryResearched
-Events: 2016-04-07 18:58:09 - MoreEfficientTransportationDesigned
-Events: 2016-04-07 18:58:09 - MoreEfficientTransportationIntroduced
-Events: 2016-04-07 18:58:09 - MoreEfficientTransportationTakesWorldByStorm
-Events: 2016-04-07 18:58:09 - CleanerFuelResearched
+Events: 2016-04-08 14:07:39 - ResearchedEngine
+Events: 2016-04-08 14:07:39 - ResearchedEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedFirstEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedEngine
+Events: 2016-04-08 14:07:39 - ConstructedThirdEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedSecondEngineBooster
+Events: 2016-04-08 14:07:39 - ResearchedLifeSupport
+Events: 2016-04-08 14:07:39 - ResearchedCockpit
+Events: 2016-04-08 14:07:39 - ScientificMogul
+Events: 2016-04-08 14:07:39 - ConstructedSecondLifeSupport
+Events: 2016-04-08 14:07:39 - ConstructedFirstLifeSupport
+Events: 2016-04-08 14:07:39 - ConstructedCockpit
+Events: 2016-04-08 14:07:39 - UniversalBatteryResearched
+Events: 2016-04-08 14:07:39 - MoreEfficientTransportationDesigned
+Events: 2016-04-08 14:07:39 - MoreEfficientTransportationIntroduced
+Events: 2016-04-08 14:07:39 - MoreEfficientTransportationTakesWorldByStorm
+Events: 2016-04-08 14:07:39 - CleanerFuelResearched
  
  ---------------------- 
 Month: 13
-LastEvent: 2016-04-07 18:58:09 - PrototypedASuperCell
+LastEvent: 2016-04-08 14:07:39 - PrototypedASuperCell
 Popularity: 88
 Morale: 88
-Budget: 1513,95705953192
+Budget: 1506,68977131214
 Scientists: 24
 Engineers: 21
 PrimaryProductionPool: 2784,285
@@ -292,32 +292,32 @@ Cargo: 48,195
 GoalType: SmartCity
 Comment: 
 Score: 1140
-Events: 2016-04-07 18:58:09 - ResearchedEngine
-Events: 2016-04-07 18:58:09 - ResearchedEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedFirstEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedEngine
-Events: 2016-04-07 18:58:09 - ConstructedThirdEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedSecondEngineBooster
-Events: 2016-04-07 18:58:09 - ResearchedLifeSupport
-Events: 2016-04-07 18:58:09 - ResearchedCockpit
-Events: 2016-04-07 18:58:09 - ScientificMogul
-Events: 2016-04-07 18:58:09 - ConstructedSecondLifeSupport
-Events: 2016-04-07 18:58:09 - ConstructedFirstLifeSupport
-Events: 2016-04-07 18:58:09 - ConstructedCockpit
-Events: 2016-04-07 18:58:09 - UniversalBatteryResearched
-Events: 2016-04-07 18:58:09 - MoreEfficientTransportationDesigned
-Events: 2016-04-07 18:58:09 - MoreEfficientTransportationIntroduced
-Events: 2016-04-07 18:58:09 - MoreEfficientTransportationTakesWorldByStorm
-Events: 2016-04-07 18:58:09 - CleanerFuelResearched
-Events: 2016-04-07 18:58:09 - CleanerFuelBuilt
-Events: 2016-04-07 18:58:09 - PrototypedASuperCell
+Events: 2016-04-08 14:07:39 - ResearchedEngine
+Events: 2016-04-08 14:07:39 - ResearchedEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedFirstEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedEngine
+Events: 2016-04-08 14:07:39 - ConstructedThirdEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedSecondEngineBooster
+Events: 2016-04-08 14:07:39 - ResearchedLifeSupport
+Events: 2016-04-08 14:07:39 - ResearchedCockpit
+Events: 2016-04-08 14:07:39 - ScientificMogul
+Events: 2016-04-08 14:07:39 - ConstructedSecondLifeSupport
+Events: 2016-04-08 14:07:39 - ConstructedFirstLifeSupport
+Events: 2016-04-08 14:07:39 - ConstructedCockpit
+Events: 2016-04-08 14:07:39 - UniversalBatteryResearched
+Events: 2016-04-08 14:07:39 - MoreEfficientTransportationDesigned
+Events: 2016-04-08 14:07:39 - MoreEfficientTransportationIntroduced
+Events: 2016-04-08 14:07:39 - MoreEfficientTransportationTakesWorldByStorm
+Events: 2016-04-08 14:07:39 - CleanerFuelResearched
+Events: 2016-04-08 14:07:39 - CleanerFuelBuilt
+Events: 2016-04-08 14:07:39 - PrototypedASuperCell
  
  ---------------------- 
 Month: 14
-LastEvent: 2016-04-07 18:58:09 - MakeSurveillanceSystem
+LastEvent: 2016-04-08 14:07:39 - MakeSurveillanceSystem
 Popularity: 68
 Morale: 63
-Budget: 1382,23456591472
+Budget: 1381,40589665687
 Scientists: 24
 Engineers: 21
 PrimaryProductionPool: 2784,285
@@ -328,33 +328,33 @@ Cargo: 48,195
 GoalType: SmartCity
 Comment: 
 Score: 1240
-Events: 2016-04-07 18:58:09 - ResearchedEngine
-Events: 2016-04-07 18:58:09 - ResearchedEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedFirstEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedEngine
-Events: 2016-04-07 18:58:09 - ConstructedThirdEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedSecondEngineBooster
-Events: 2016-04-07 18:58:09 - ResearchedLifeSupport
-Events: 2016-04-07 18:58:09 - ResearchedCockpit
-Events: 2016-04-07 18:58:09 - ScientificMogul
-Events: 2016-04-07 18:58:09 - ConstructedSecondLifeSupport
-Events: 2016-04-07 18:58:09 - ConstructedFirstLifeSupport
-Events: 2016-04-07 18:58:09 - ConstructedCockpit
-Events: 2016-04-07 18:58:09 - UniversalBatteryResearched
-Events: 2016-04-07 18:58:09 - MoreEfficientTransportationDesigned
-Events: 2016-04-07 18:58:09 - MoreEfficientTransportationIntroduced
-Events: 2016-04-07 18:58:09 - MoreEfficientTransportationTakesWorldByStorm
-Events: 2016-04-07 18:58:09 - CleanerFuelResearched
-Events: 2016-04-07 18:58:09 - CleanerFuelBuilt
-Events: 2016-04-07 18:58:09 - PrototypedASuperCell
-Events: 2016-04-07 18:58:09 - MakeSurveillanceSystem
+Events: 2016-04-08 14:07:39 - ResearchedEngine
+Events: 2016-04-08 14:07:39 - ResearchedEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedFirstEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedEngine
+Events: 2016-04-08 14:07:39 - ConstructedThirdEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedSecondEngineBooster
+Events: 2016-04-08 14:07:39 - ResearchedLifeSupport
+Events: 2016-04-08 14:07:39 - ResearchedCockpit
+Events: 2016-04-08 14:07:39 - ScientificMogul
+Events: 2016-04-08 14:07:39 - ConstructedSecondLifeSupport
+Events: 2016-04-08 14:07:39 - ConstructedFirstLifeSupport
+Events: 2016-04-08 14:07:39 - ConstructedCockpit
+Events: 2016-04-08 14:07:39 - UniversalBatteryResearched
+Events: 2016-04-08 14:07:39 - MoreEfficientTransportationDesigned
+Events: 2016-04-08 14:07:39 - MoreEfficientTransportationIntroduced
+Events: 2016-04-08 14:07:39 - MoreEfficientTransportationTakesWorldByStorm
+Events: 2016-04-08 14:07:39 - CleanerFuelResearched
+Events: 2016-04-08 14:07:39 - CleanerFuelBuilt
+Events: 2016-04-08 14:07:39 - PrototypedASuperCell
+Events: 2016-04-08 14:07:39 - MakeSurveillanceSystem
  
  ---------------------- 
 Month: 15
-LastEvent: 2016-04-07 18:58:09 - MakeSurveillanceSystem
+LastEvent: 2016-04-08 14:07:39 - MakeSurveillanceSystem
 Popularity: 68
 Morale: 58
-Budget: 1245,41369339238
+Budget: 1250,53501167825
 Scientists: 24
 Engineers: 21
 PrimaryProductionPool: 2784,285
@@ -365,33 +365,33 @@ Cargo: 732,795
 GoalType: SmartCity
 Comment: 
 Score: 1240
-Events: 2016-04-07 18:58:09 - ResearchedEngine
-Events: 2016-04-07 18:58:09 - ResearchedEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedFirstEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedEngine
-Events: 2016-04-07 18:58:09 - ConstructedThirdEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedSecondEngineBooster
-Events: 2016-04-07 18:58:09 - ResearchedLifeSupport
-Events: 2016-04-07 18:58:09 - ResearchedCockpit
-Events: 2016-04-07 18:58:09 - ScientificMogul
-Events: 2016-04-07 18:58:09 - ConstructedSecondLifeSupport
-Events: 2016-04-07 18:58:09 - ConstructedFirstLifeSupport
-Events: 2016-04-07 18:58:09 - ConstructedCockpit
-Events: 2016-04-07 18:58:09 - UniversalBatteryResearched
-Events: 2016-04-07 18:58:09 - MoreEfficientTransportationDesigned
-Events: 2016-04-07 18:58:09 - MoreEfficientTransportationIntroduced
-Events: 2016-04-07 18:58:09 - MoreEfficientTransportationTakesWorldByStorm
-Events: 2016-04-07 18:58:09 - CleanerFuelResearched
-Events: 2016-04-07 18:58:09 - CleanerFuelBuilt
-Events: 2016-04-07 18:58:09 - PrototypedASuperCell
-Events: 2016-04-07 18:58:09 - MakeSurveillanceSystem
+Events: 2016-04-08 14:07:39 - ResearchedEngine
+Events: 2016-04-08 14:07:39 - ResearchedEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedFirstEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedEngine
+Events: 2016-04-08 14:07:39 - ConstructedThirdEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedSecondEngineBooster
+Events: 2016-04-08 14:07:39 - ResearchedLifeSupport
+Events: 2016-04-08 14:07:39 - ResearchedCockpit
+Events: 2016-04-08 14:07:39 - ScientificMogul
+Events: 2016-04-08 14:07:39 - ConstructedSecondLifeSupport
+Events: 2016-04-08 14:07:39 - ConstructedFirstLifeSupport
+Events: 2016-04-08 14:07:39 - ConstructedCockpit
+Events: 2016-04-08 14:07:39 - UniversalBatteryResearched
+Events: 2016-04-08 14:07:39 - MoreEfficientTransportationDesigned
+Events: 2016-04-08 14:07:39 - MoreEfficientTransportationIntroduced
+Events: 2016-04-08 14:07:39 - MoreEfficientTransportationTakesWorldByStorm
+Events: 2016-04-08 14:07:39 - CleanerFuelResearched
+Events: 2016-04-08 14:07:39 - CleanerFuelBuilt
+Events: 2016-04-08 14:07:39 - PrototypedASuperCell
+Events: 2016-04-08 14:07:39 - MakeSurveillanceSystem
  
  ---------------------- 
 Month: 16
-LastEvent: 2016-04-07 18:58:09 - ConstructDeepSleepChamber
+LastEvent: 2016-04-08 14:07:39 - ConstructDeepSleepChamber
 Popularity: 68
 Morale: 53
-Budget: 1107,58709765858
+Budget: 1115,835775447
 Scientists: 24
 Engineers: 21
 PrimaryProductionPool: 2784,285
@@ -402,35 +402,35 @@ Cargo: 732,795
 GoalType: SmartCity
 Comment: 
 Score: 1440
-Events: 2016-04-07 18:58:09 - ResearchedEngine
-Events: 2016-04-07 18:58:09 - ResearchedEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedFirstEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedEngine
-Events: 2016-04-07 18:58:09 - ConstructedThirdEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedSecondEngineBooster
-Events: 2016-04-07 18:58:09 - ResearchedLifeSupport
-Events: 2016-04-07 18:58:09 - ResearchedCockpit
-Events: 2016-04-07 18:58:09 - ScientificMogul
-Events: 2016-04-07 18:58:09 - ConstructedSecondLifeSupport
-Events: 2016-04-07 18:58:09 - ConstructedFirstLifeSupport
-Events: 2016-04-07 18:58:09 - ConstructedCockpit
-Events: 2016-04-07 18:58:09 - UniversalBatteryResearched
-Events: 2016-04-07 18:58:09 - MoreEfficientTransportationDesigned
-Events: 2016-04-07 18:58:09 - MoreEfficientTransportationIntroduced
-Events: 2016-04-07 18:58:09 - MoreEfficientTransportationTakesWorldByStorm
-Events: 2016-04-07 18:58:09 - CleanerFuelResearched
-Events: 2016-04-07 18:58:09 - CleanerFuelBuilt
-Events: 2016-04-07 18:58:09 - PrototypedASuperCell
-Events: 2016-04-07 18:58:09 - MakeSurveillanceSystem
-Events: 2016-04-07 18:58:09 - NeuroControl
-Events: 2016-04-07 18:58:09 - ConstructDeepSleepChamber
+Events: 2016-04-08 14:07:39 - ResearchedEngine
+Events: 2016-04-08 14:07:39 - ResearchedEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedFirstEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedEngine
+Events: 2016-04-08 14:07:39 - ConstructedThirdEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedSecondEngineBooster
+Events: 2016-04-08 14:07:39 - ResearchedLifeSupport
+Events: 2016-04-08 14:07:39 - ResearchedCockpit
+Events: 2016-04-08 14:07:39 - ScientificMogul
+Events: 2016-04-08 14:07:39 - ConstructedSecondLifeSupport
+Events: 2016-04-08 14:07:39 - ConstructedFirstLifeSupport
+Events: 2016-04-08 14:07:39 - ConstructedCockpit
+Events: 2016-04-08 14:07:39 - UniversalBatteryResearched
+Events: 2016-04-08 14:07:39 - MoreEfficientTransportationDesigned
+Events: 2016-04-08 14:07:39 - MoreEfficientTransportationIntroduced
+Events: 2016-04-08 14:07:39 - MoreEfficientTransportationTakesWorldByStorm
+Events: 2016-04-08 14:07:39 - CleanerFuelResearched
+Events: 2016-04-08 14:07:39 - CleanerFuelBuilt
+Events: 2016-04-08 14:07:39 - PrototypedASuperCell
+Events: 2016-04-08 14:07:39 - MakeSurveillanceSystem
+Events: 2016-04-08 14:07:39 - NeuroControl
+Events: 2016-04-08 14:07:39 - ConstructDeepSleepChamber
  
  ---------------------- 
 Month: 17
-LastEvent: 2016-04-07 18:58:09 - ConstructDeepSleepChamber
+LastEvent: 2016-04-08 14:07:39 - ConstructDeepSleepChamber
 Popularity: 68
 Morale: 48
-Budget: 975,67289194822
+Budget: 976,575028596713
 Scientists: 24
 Engineers: 21
 PrimaryProductionPool: 2784,285
@@ -441,35 +441,35 @@ Cargo: 2017,995
 GoalType: SmartCity
 Comment: 
 Score: 1440
-Events: 2016-04-07 18:58:09 - ResearchedEngine
-Events: 2016-04-07 18:58:09 - ResearchedEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedFirstEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedEngine
-Events: 2016-04-07 18:58:09 - ConstructedThirdEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedSecondEngineBooster
-Events: 2016-04-07 18:58:09 - ResearchedLifeSupport
-Events: 2016-04-07 18:58:09 - ResearchedCockpit
-Events: 2016-04-07 18:58:09 - ScientificMogul
-Events: 2016-04-07 18:58:09 - ConstructedSecondLifeSupport
-Events: 2016-04-07 18:58:09 - ConstructedFirstLifeSupport
-Events: 2016-04-07 18:58:09 - ConstructedCockpit
-Events: 2016-04-07 18:58:09 - UniversalBatteryResearched
-Events: 2016-04-07 18:58:09 - MoreEfficientTransportationDesigned
-Events: 2016-04-07 18:58:09 - MoreEfficientTransportationIntroduced
-Events: 2016-04-07 18:58:09 - MoreEfficientTransportationTakesWorldByStorm
-Events: 2016-04-07 18:58:09 - CleanerFuelResearched
-Events: 2016-04-07 18:58:09 - CleanerFuelBuilt
-Events: 2016-04-07 18:58:09 - PrototypedASuperCell
-Events: 2016-04-07 18:58:09 - MakeSurveillanceSystem
-Events: 2016-04-07 18:58:09 - NeuroControl
-Events: 2016-04-07 18:58:09 - ConstructDeepSleepChamber
+Events: 2016-04-08 14:07:39 - ResearchedEngine
+Events: 2016-04-08 14:07:39 - ResearchedEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedFirstEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedEngine
+Events: 2016-04-08 14:07:39 - ConstructedThirdEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedSecondEngineBooster
+Events: 2016-04-08 14:07:39 - ResearchedLifeSupport
+Events: 2016-04-08 14:07:39 - ResearchedCockpit
+Events: 2016-04-08 14:07:39 - ScientificMogul
+Events: 2016-04-08 14:07:39 - ConstructedSecondLifeSupport
+Events: 2016-04-08 14:07:39 - ConstructedFirstLifeSupport
+Events: 2016-04-08 14:07:39 - ConstructedCockpit
+Events: 2016-04-08 14:07:39 - UniversalBatteryResearched
+Events: 2016-04-08 14:07:39 - MoreEfficientTransportationDesigned
+Events: 2016-04-08 14:07:39 - MoreEfficientTransportationIntroduced
+Events: 2016-04-08 14:07:39 - MoreEfficientTransportationTakesWorldByStorm
+Events: 2016-04-08 14:07:39 - CleanerFuelResearched
+Events: 2016-04-08 14:07:39 - CleanerFuelBuilt
+Events: 2016-04-08 14:07:39 - PrototypedASuperCell
+Events: 2016-04-08 14:07:39 - MakeSurveillanceSystem
+Events: 2016-04-08 14:07:39 - NeuroControl
+Events: 2016-04-08 14:07:39 - ConstructDeepSleepChamber
  
  ---------------------- 
 Month: 18
-LastEvent: 2016-04-07 18:58:09 - ConstructDeepSleepChamber
+LastEvent: 2016-04-08 14:07:39 - ConstructDeepSleepChamber
 Popularity: 73
 Morale: 68
-Budget: 855,67289194822
+Budget: 856,575028596713
 Scientists: 24
 Engineers: 21
 PrimaryProductionPool: 2784,285
@@ -480,35 +480,35 @@ Cargo: 2017,995
 GoalType: SmartCity
 Comment: 
 Score: 1440
-Events: 2016-04-07 18:58:09 - ResearchedEngine
-Events: 2016-04-07 18:58:09 - ResearchedEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedFirstEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedEngine
-Events: 2016-04-07 18:58:09 - ConstructedThirdEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedSecondEngineBooster
-Events: 2016-04-07 18:58:09 - ResearchedLifeSupport
-Events: 2016-04-07 18:58:09 - ResearchedCockpit
-Events: 2016-04-07 18:58:09 - ScientificMogul
-Events: 2016-04-07 18:58:09 - ConstructedSecondLifeSupport
-Events: 2016-04-07 18:58:09 - ConstructedFirstLifeSupport
-Events: 2016-04-07 18:58:09 - ConstructedCockpit
-Events: 2016-04-07 18:58:09 - UniversalBatteryResearched
-Events: 2016-04-07 18:58:09 - MoreEfficientTransportationDesigned
-Events: 2016-04-07 18:58:09 - MoreEfficientTransportationIntroduced
-Events: 2016-04-07 18:58:09 - MoreEfficientTransportationTakesWorldByStorm
-Events: 2016-04-07 18:58:09 - CleanerFuelResearched
-Events: 2016-04-07 18:58:09 - CleanerFuelBuilt
-Events: 2016-04-07 18:58:09 - PrototypedASuperCell
-Events: 2016-04-07 18:58:09 - MakeSurveillanceSystem
-Events: 2016-04-07 18:58:09 - NeuroControl
-Events: 2016-04-07 18:58:09 - ConstructDeepSleepChamber
+Events: 2016-04-08 14:07:39 - ResearchedEngine
+Events: 2016-04-08 14:07:39 - ResearchedEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedFirstEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedEngine
+Events: 2016-04-08 14:07:39 - ConstructedThirdEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedSecondEngineBooster
+Events: 2016-04-08 14:07:39 - ResearchedLifeSupport
+Events: 2016-04-08 14:07:39 - ResearchedCockpit
+Events: 2016-04-08 14:07:39 - ScientificMogul
+Events: 2016-04-08 14:07:39 - ConstructedSecondLifeSupport
+Events: 2016-04-08 14:07:39 - ConstructedFirstLifeSupport
+Events: 2016-04-08 14:07:39 - ConstructedCockpit
+Events: 2016-04-08 14:07:39 - UniversalBatteryResearched
+Events: 2016-04-08 14:07:39 - MoreEfficientTransportationDesigned
+Events: 2016-04-08 14:07:39 - MoreEfficientTransportationIntroduced
+Events: 2016-04-08 14:07:39 - MoreEfficientTransportationTakesWorldByStorm
+Events: 2016-04-08 14:07:39 - CleanerFuelResearched
+Events: 2016-04-08 14:07:39 - CleanerFuelBuilt
+Events: 2016-04-08 14:07:39 - PrototypedASuperCell
+Events: 2016-04-08 14:07:39 - MakeSurveillanceSystem
+Events: 2016-04-08 14:07:39 - NeuroControl
+Events: 2016-04-08 14:07:39 - ConstructDeepSleepChamber
  
  ---------------------- 
 Month: 19
-LastEvent: 2016-04-07 18:58:09 - ConstructDeepSleepChamber
+LastEvent: 2016-04-08 14:07:39 - ConstructDeepSleepChamber
 Popularity: 73
 Morale: 68
-Budget: 692,838492851163
+Budget: 687,107273762629
 Scientists: 24
 Engineers: 21
 PrimaryProductionPool: 3048,885
@@ -519,35 +519,35 @@ Cargo: 2106,195
 GoalType: SmartCity
 Comment: 
 Score: 1440
-Events: 2016-04-07 18:58:09 - ResearchedEngine
-Events: 2016-04-07 18:58:09 - ResearchedEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedFirstEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedEngine
-Events: 2016-04-07 18:58:09 - ConstructedThirdEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedSecondEngineBooster
-Events: 2016-04-07 18:58:09 - ResearchedLifeSupport
-Events: 2016-04-07 18:58:09 - ResearchedCockpit
-Events: 2016-04-07 18:58:09 - ScientificMogul
-Events: 2016-04-07 18:58:09 - ConstructedSecondLifeSupport
-Events: 2016-04-07 18:58:09 - ConstructedFirstLifeSupport
-Events: 2016-04-07 18:58:09 - ConstructedCockpit
-Events: 2016-04-07 18:58:09 - UniversalBatteryResearched
-Events: 2016-04-07 18:58:09 - MoreEfficientTransportationDesigned
-Events: 2016-04-07 18:58:09 - MoreEfficientTransportationIntroduced
-Events: 2016-04-07 18:58:09 - MoreEfficientTransportationTakesWorldByStorm
-Events: 2016-04-07 18:58:09 - CleanerFuelResearched
-Events: 2016-04-07 18:58:09 - CleanerFuelBuilt
-Events: 2016-04-07 18:58:09 - PrototypedASuperCell
-Events: 2016-04-07 18:58:09 - MakeSurveillanceSystem
-Events: 2016-04-07 18:58:09 - NeuroControl
-Events: 2016-04-07 18:58:09 - ConstructDeepSleepChamber
+Events: 2016-04-08 14:07:39 - ResearchedEngine
+Events: 2016-04-08 14:07:39 - ResearchedEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedFirstEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedEngine
+Events: 2016-04-08 14:07:39 - ConstructedThirdEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedSecondEngineBooster
+Events: 2016-04-08 14:07:39 - ResearchedLifeSupport
+Events: 2016-04-08 14:07:39 - ResearchedCockpit
+Events: 2016-04-08 14:07:39 - ScientificMogul
+Events: 2016-04-08 14:07:39 - ConstructedSecondLifeSupport
+Events: 2016-04-08 14:07:39 - ConstructedFirstLifeSupport
+Events: 2016-04-08 14:07:39 - ConstructedCockpit
+Events: 2016-04-08 14:07:39 - UniversalBatteryResearched
+Events: 2016-04-08 14:07:39 - MoreEfficientTransportationDesigned
+Events: 2016-04-08 14:07:39 - MoreEfficientTransportationIntroduced
+Events: 2016-04-08 14:07:39 - MoreEfficientTransportationTakesWorldByStorm
+Events: 2016-04-08 14:07:39 - CleanerFuelResearched
+Events: 2016-04-08 14:07:39 - CleanerFuelBuilt
+Events: 2016-04-08 14:07:39 - PrototypedASuperCell
+Events: 2016-04-08 14:07:39 - MakeSurveillanceSystem
+Events: 2016-04-08 14:07:39 - NeuroControl
+Events: 2016-04-08 14:07:39 - ConstructDeepSleepChamber
  
  ---------------------- 
 Month: 20
-LastEvent: 2016-04-07 18:58:09 - ConstructDeepSleepChamber
+LastEvent: 2016-04-08 14:07:39 - ConstructDeepSleepChamber
 Popularity: 63
 Morale: 35,6190476190476
-Budget: 572,838492851163
+Budget: 567,107273762629
 Scientists: 24
 Engineers: 11
 PrimaryProductionPool: 3048,885
@@ -558,35 +558,35 @@ Cargo: 2106,195
 GoalType: SmartCity
 Comment: 
 Score: 1440
-Events: 2016-04-07 18:58:09 - ResearchedEngine
-Events: 2016-04-07 18:58:09 - ResearchedEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedFirstEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedEngine
-Events: 2016-04-07 18:58:09 - ConstructedThirdEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedSecondEngineBooster
-Events: 2016-04-07 18:58:09 - ResearchedLifeSupport
-Events: 2016-04-07 18:58:09 - ResearchedCockpit
-Events: 2016-04-07 18:58:09 - ScientificMogul
-Events: 2016-04-07 18:58:09 - ConstructedSecondLifeSupport
-Events: 2016-04-07 18:58:09 - ConstructedFirstLifeSupport
-Events: 2016-04-07 18:58:09 - ConstructedCockpit
-Events: 2016-04-07 18:58:09 - UniversalBatteryResearched
-Events: 2016-04-07 18:58:09 - MoreEfficientTransportationDesigned
-Events: 2016-04-07 18:58:09 - MoreEfficientTransportationIntroduced
-Events: 2016-04-07 18:58:09 - MoreEfficientTransportationTakesWorldByStorm
-Events: 2016-04-07 18:58:09 - CleanerFuelResearched
-Events: 2016-04-07 18:58:09 - CleanerFuelBuilt
-Events: 2016-04-07 18:58:09 - PrototypedASuperCell
-Events: 2016-04-07 18:58:09 - MakeSurveillanceSystem
-Events: 2016-04-07 18:58:09 - NeuroControl
-Events: 2016-04-07 18:58:09 - ConstructDeepSleepChamber
+Events: 2016-04-08 14:07:39 - ResearchedEngine
+Events: 2016-04-08 14:07:39 - ResearchedEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedFirstEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedEngine
+Events: 2016-04-08 14:07:39 - ConstructedThirdEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedSecondEngineBooster
+Events: 2016-04-08 14:07:39 - ResearchedLifeSupport
+Events: 2016-04-08 14:07:39 - ResearchedCockpit
+Events: 2016-04-08 14:07:39 - ScientificMogul
+Events: 2016-04-08 14:07:39 - ConstructedSecondLifeSupport
+Events: 2016-04-08 14:07:39 - ConstructedFirstLifeSupport
+Events: 2016-04-08 14:07:39 - ConstructedCockpit
+Events: 2016-04-08 14:07:39 - UniversalBatteryResearched
+Events: 2016-04-08 14:07:39 - MoreEfficientTransportationDesigned
+Events: 2016-04-08 14:07:39 - MoreEfficientTransportationIntroduced
+Events: 2016-04-08 14:07:39 - MoreEfficientTransportationTakesWorldByStorm
+Events: 2016-04-08 14:07:39 - CleanerFuelResearched
+Events: 2016-04-08 14:07:39 - CleanerFuelBuilt
+Events: 2016-04-08 14:07:39 - PrototypedASuperCell
+Events: 2016-04-08 14:07:39 - MakeSurveillanceSystem
+Events: 2016-04-08 14:07:39 - NeuroControl
+Events: 2016-04-08 14:07:39 - ConstructDeepSleepChamber
  
  ---------------------- 
 Month: 21
-LastEvent: 2016-04-07 18:58:09 - ConstructDeepSleepChamber
+LastEvent: 2016-04-08 14:07:39 - ConstructDeepSleepChamber
 Popularity: 64
 Morale: 35,6190476190476
-Budget: 426,50308777881
+Budget: 426,30055592223
 Scientists: 34
 Engineers: 11
 PrimaryProductionPool: 3048,885
@@ -597,35 +597,35 @@ Cargo: 2106,195
 GoalType: SmartCity
 Comment: 
 Score: 1440
-Events: 2016-04-07 18:58:09 - ResearchedEngine
-Events: 2016-04-07 18:58:09 - ResearchedEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedFirstEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedEngine
-Events: 2016-04-07 18:58:09 - ConstructedThirdEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedSecondEngineBooster
-Events: 2016-04-07 18:58:09 - ResearchedLifeSupport
-Events: 2016-04-07 18:58:09 - ResearchedCockpit
-Events: 2016-04-07 18:58:09 - ScientificMogul
-Events: 2016-04-07 18:58:09 - ConstructedSecondLifeSupport
-Events: 2016-04-07 18:58:09 - ConstructedFirstLifeSupport
-Events: 2016-04-07 18:58:09 - ConstructedCockpit
-Events: 2016-04-07 18:58:09 - UniversalBatteryResearched
-Events: 2016-04-07 18:58:09 - MoreEfficientTransportationDesigned
-Events: 2016-04-07 18:58:09 - MoreEfficientTransportationIntroduced
-Events: 2016-04-07 18:58:09 - MoreEfficientTransportationTakesWorldByStorm
-Events: 2016-04-07 18:58:09 - CleanerFuelResearched
-Events: 2016-04-07 18:58:09 - CleanerFuelBuilt
-Events: 2016-04-07 18:58:09 - PrototypedASuperCell
-Events: 2016-04-07 18:58:09 - MakeSurveillanceSystem
-Events: 2016-04-07 18:58:09 - NeuroControl
-Events: 2016-04-07 18:58:09 - ConstructDeepSleepChamber
+Events: 2016-04-08 14:07:39 - ResearchedEngine
+Events: 2016-04-08 14:07:39 - ResearchedEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedFirstEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedEngine
+Events: 2016-04-08 14:07:39 - ConstructedThirdEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedSecondEngineBooster
+Events: 2016-04-08 14:07:39 - ResearchedLifeSupport
+Events: 2016-04-08 14:07:39 - ResearchedCockpit
+Events: 2016-04-08 14:07:39 - ScientificMogul
+Events: 2016-04-08 14:07:39 - ConstructedSecondLifeSupport
+Events: 2016-04-08 14:07:39 - ConstructedFirstLifeSupport
+Events: 2016-04-08 14:07:39 - ConstructedCockpit
+Events: 2016-04-08 14:07:39 - UniversalBatteryResearched
+Events: 2016-04-08 14:07:39 - MoreEfficientTransportationDesigned
+Events: 2016-04-08 14:07:39 - MoreEfficientTransportationIntroduced
+Events: 2016-04-08 14:07:39 - MoreEfficientTransportationTakesWorldByStorm
+Events: 2016-04-08 14:07:39 - CleanerFuelResearched
+Events: 2016-04-08 14:07:39 - CleanerFuelBuilt
+Events: 2016-04-08 14:07:39 - PrototypedASuperCell
+Events: 2016-04-08 14:07:39 - MakeSurveillanceSystem
+Events: 2016-04-08 14:07:39 - NeuroControl
+Events: 2016-04-08 14:07:39 - ConstructDeepSleepChamber
  
  ---------------------- 
 Month: 22
-LastEvent: 2016-04-07 18:58:09 - RocketAssembled
+LastEvent: 2016-04-08 14:07:39 - RocketAssembled
 Popularity: 69
 Morale: 40,6190476190476
-Budget: 281,066176738155
+Budget: 285,798573743458
 Scientists: 0
 Engineers: 0
 PrimaryProductionPool: 3496,42785714286
@@ -636,37 +636,37 @@ Cargo: 2106,195
 GoalType: SmartCity
 Comment: 
 Score: 194
-Events: 2016-04-07 18:58:09 - ResearchedEngine
-Events: 2016-04-07 18:58:09 - ResearchedEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedFirstEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedEngine
-Events: 2016-04-07 18:58:09 - ConstructedThirdEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedSecondEngineBooster
-Events: 2016-04-07 18:58:09 - ResearchedLifeSupport
-Events: 2016-04-07 18:58:09 - ResearchedCockpit
-Events: 2016-04-07 18:58:09 - ScientificMogul
-Events: 2016-04-07 18:58:09 - ConstructedSecondLifeSupport
-Events: 2016-04-07 18:58:09 - ConstructedFirstLifeSupport
-Events: 2016-04-07 18:58:09 - ConstructedCockpit
-Events: 2016-04-07 18:58:09 - UniversalBatteryResearched
-Events: 2016-04-07 18:58:09 - MoreEfficientTransportationDesigned
-Events: 2016-04-07 18:58:09 - MoreEfficientTransportationIntroduced
-Events: 2016-04-07 18:58:09 - MoreEfficientTransportationTakesWorldByStorm
-Events: 2016-04-07 18:58:09 - CleanerFuelResearched
-Events: 2016-04-07 18:58:09 - CleanerFuelBuilt
-Events: 2016-04-07 18:58:09 - PrototypedASuperCell
-Events: 2016-04-07 18:58:09 - MakeSurveillanceSystem
-Events: 2016-04-07 18:58:09 - NeuroControl
-Events: 2016-04-07 18:58:09 - ConstructDeepSleepChamber
-Events: 2016-04-07 18:58:09 - CatastrophicExplosion
-Events: 2016-04-07 18:58:09 - RocketAssembled
+Events: 2016-04-08 14:07:39 - ResearchedEngine
+Events: 2016-04-08 14:07:39 - ResearchedEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedFirstEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedEngine
+Events: 2016-04-08 14:07:39 - ConstructedThirdEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedSecondEngineBooster
+Events: 2016-04-08 14:07:39 - ResearchedLifeSupport
+Events: 2016-04-08 14:07:39 - ResearchedCockpit
+Events: 2016-04-08 14:07:39 - ScientificMogul
+Events: 2016-04-08 14:07:39 - ConstructedSecondLifeSupport
+Events: 2016-04-08 14:07:39 - ConstructedFirstLifeSupport
+Events: 2016-04-08 14:07:39 - ConstructedCockpit
+Events: 2016-04-08 14:07:39 - UniversalBatteryResearched
+Events: 2016-04-08 14:07:39 - MoreEfficientTransportationDesigned
+Events: 2016-04-08 14:07:39 - MoreEfficientTransportationIntroduced
+Events: 2016-04-08 14:07:39 - MoreEfficientTransportationTakesWorldByStorm
+Events: 2016-04-08 14:07:39 - CleanerFuelResearched
+Events: 2016-04-08 14:07:39 - CleanerFuelBuilt
+Events: 2016-04-08 14:07:39 - PrototypedASuperCell
+Events: 2016-04-08 14:07:39 - MakeSurveillanceSystem
+Events: 2016-04-08 14:07:39 - NeuroControl
+Events: 2016-04-08 14:07:39 - ConstructDeepSleepChamber
+Events: 2016-04-08 14:07:39 - CatastrophicExplosion
+Events: 2016-04-08 14:07:39 - RocketAssembled
  
  ---------------------- 
 Month: 23
-LastEvent: 2016-04-07 18:58:09 - RocketLaunched
+LastEvent: 2016-04-08 14:07:39 - RocketLaunched
 Popularity: 69
 Morale: 40,6190476190476
-Budget: 151,066176738155
+Budget: 155,798573743458
 Scientists: 0
 Engineers: 0
 PrimaryProductionPool: 3496,42785714286
@@ -677,31 +677,31 @@ Cargo: 2106,195
 GoalType: SmartCity
 Comment: 
 Score: 17800,195
-Events: 2016-04-07 18:58:09 - ResearchedEngine
-Events: 2016-04-07 18:58:09 - ResearchedEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedFirstEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedEngine
-Events: 2016-04-07 18:58:09 - ConstructedThirdEngineBooster
-Events: 2016-04-07 18:58:09 - ConstructedSecondEngineBooster
-Events: 2016-04-07 18:58:09 - ResearchedLifeSupport
-Events: 2016-04-07 18:58:09 - ResearchedCockpit
-Events: 2016-04-07 18:58:09 - ScientificMogul
-Events: 2016-04-07 18:58:09 - ConstructedSecondLifeSupport
-Events: 2016-04-07 18:58:09 - ConstructedFirstLifeSupport
-Events: 2016-04-07 18:58:09 - ConstructedCockpit
-Events: 2016-04-07 18:58:09 - UniversalBatteryResearched
-Events: 2016-04-07 18:58:09 - MoreEfficientTransportationDesigned
-Events: 2016-04-07 18:58:09 - MoreEfficientTransportationIntroduced
-Events: 2016-04-07 18:58:09 - MoreEfficientTransportationTakesWorldByStorm
-Events: 2016-04-07 18:58:09 - CleanerFuelResearched
-Events: 2016-04-07 18:58:09 - CleanerFuelBuilt
-Events: 2016-04-07 18:58:09 - PrototypedASuperCell
-Events: 2016-04-07 18:58:09 - MakeSurveillanceSystem
-Events: 2016-04-07 18:58:09 - NeuroControl
-Events: 2016-04-07 18:58:09 - ConstructDeepSleepChamber
-Events: 2016-04-07 18:58:09 - CatastrophicExplosion
-Events: 2016-04-07 18:58:09 - RocketAssembled
-Events: 2016-04-07 18:58:09 - RocketLaunched
+Events: 2016-04-08 14:07:39 - ResearchedEngine
+Events: 2016-04-08 14:07:39 - ResearchedEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedFirstEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedEngine
+Events: 2016-04-08 14:07:39 - ConstructedThirdEngineBooster
+Events: 2016-04-08 14:07:39 - ConstructedSecondEngineBooster
+Events: 2016-04-08 14:07:39 - ResearchedLifeSupport
+Events: 2016-04-08 14:07:39 - ResearchedCockpit
+Events: 2016-04-08 14:07:39 - ScientificMogul
+Events: 2016-04-08 14:07:39 - ConstructedSecondLifeSupport
+Events: 2016-04-08 14:07:39 - ConstructedFirstLifeSupport
+Events: 2016-04-08 14:07:39 - ConstructedCockpit
+Events: 2016-04-08 14:07:39 - UniversalBatteryResearched
+Events: 2016-04-08 14:07:39 - MoreEfficientTransportationDesigned
+Events: 2016-04-08 14:07:39 - MoreEfficientTransportationIntroduced
+Events: 2016-04-08 14:07:39 - MoreEfficientTransportationTakesWorldByStorm
+Events: 2016-04-08 14:07:39 - CleanerFuelResearched
+Events: 2016-04-08 14:07:39 - CleanerFuelBuilt
+Events: 2016-04-08 14:07:39 - PrototypedASuperCell
+Events: 2016-04-08 14:07:39 - MakeSurveillanceSystem
+Events: 2016-04-08 14:07:39 - NeuroControl
+Events: 2016-04-08 14:07:39 - ConstructDeepSleepChamber
+Events: 2016-04-08 14:07:39 - CatastrophicExplosion
+Events: 2016-04-08 14:07:39 - RocketAssembled
+Events: 2016-04-08 14:07:39 - RocketLaunched
  
  ---------------------- 
 
