@@ -1,25 +1,25 @@
-fire_people scientist 10
-fire_people engineer 10
-focus_production primary 10
-focus_science primary 10
-hire_people scientist 10
-hire_people scientist 10
-perform_work 10
-focus_production primary 10
-focus_production primary 10
-hire_people engineer 10
-focus_science primary 10
 perform_work 10
 focus_production cargo 10
+focus_science primary 10
+focus_science primary 10
 slower_time 10
-focus_production secondary 10
-focus_production primary 10
-focus_production cargo 10
 perform_work 10
+hire_people engineer 10
 focus_science primary 10
 marketing 10
-focus_production cargo 10
-slower_time 10
-focus_science secondary 10
-focus_science primary 10
 hire_people engineer 10
+fire_people engineer 10
+slower_time 10
+focus_production primary 10
+hire_people scientist 10
+focus_production primary 10
+focus_production secondary 10
+focus_production primary 10
+perform_work 10
+focus_science secondary 10
+fire_people scientist 10
+hire_people scientist 10
+focus_production primary 10
+focus_production cargo 10
+focus_production cargo 10
+focus_science primary 10
